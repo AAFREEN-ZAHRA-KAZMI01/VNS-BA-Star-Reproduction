@@ -1,0 +1,29 @@
+id,section,issue,our_assumption,impact_on_reproduction
+A1,Sec 3.2,Definition of obstacle density rho,IMPLEMENTED: obstacle cells / cells of the inclusive rectangle between n and opposite current node (integral image),Medium
+A2,Sec 3.1,Move cost of 11/13 extension cells,"IMPLEMENTED: Euclidean (2, sqrt5, 2sqrt2)",Medium
+A3,Fig 4,Expansion order of the two fronts,"IMPLEMENTED: strict alternation, forward first",Low
+A4,Sec 3.3,Segment-obstacle test,"IMPLEMENTED: exact cell traversal; positive-length overlap = crossing, corner touch allowed",Medium
+A5,Sec 3.4,Spline y=S(x) fails for vertical turns,"IMPLEMENTED: parametric natural cubic spline, chord-length parameter, own solver",High
+A6,Eq 11,Missing boundary conditions; duplicated S'' line,IMPLEMENTED: natural boundary; second line read as S' continuity,High
+A7,Sec 3.4,Position of P1-P4,"IMPLEMENTED: P2/P3 at 1 cell, P1/P4 at 2 cells from the corner, clipped to 45% of the segment",Medium
+A8,Sec 3.1,Blocked extension cells,IMPLEMENTED: skipped,Low
+A9,Fig 4,Meeting rule & path join,SUPERSEDED by A26,Medium
+A10,Sec 4,"Exact maps, start/goal coordinates","RESOLVED: reconstructed from Figs 3, 8-11; optimal lengths match published values on all 4 maps",Resolved
+A11,Sec 4,Turn / turn-angle definition,Turn = heading change at a vertex; angle = sum of |delta heading|. Confirmed by exact baseline matches (e.g. 1215 deg / 27 turns),Resolved
+A12,Sec 4,"Timing protocol, hardware, whether plotting is included","Median of 30 runs, search + post-processing only, no plotting",High
+A13,Sec 4,Weight mu of [29],"IMPLEMENTED: mu = e^rho, rho between node and that side's target, as the paper states",Medium
+A14,Sec 4,Whether pruning/smoothing applied to baselines,Paper: VNS-BA* only. We add an ablation applying it to all,High
+A15,Sec 3.2,'Opposite start',"IMPLEMENTED: forward side uses G, backward side uses S",Low
+A16,Sec 2,Diagonal move rule near obstacle corners,Corner cutting allowed (diagonal blocked only if target cell is an obstacle) - confirmed by optimal-length match; strict rule contradicts published lengths,Resolved
+A17,Sec 4,Multiple runs / statistics not provided,"30 seeded random maps per size, 20% density, start (0,0), goal (n-1,n-1), solvability enforced",Our addition
+A18,[28],5-direction neighbourhood may make the search incomplete,"If the 5-direction search fails, rerun with 8 directions (never triggered on Maps A-D)",Low
+A19,Sec 3.1,Target of the 8-11-13 direction vector in bidirectional search,Opposite front's current node (the target used by the heuristic),Medium
+A20,Sec 3.2,Open-list f values become stale as the opposite current node moves,f evaluated when a node is generated; no open-list re-evaluation,Medium
+A21,Sec 4,Which path the VNS-BA* metrics refer to,Turns/angle on the pruned polyline (smoothing keeps turn count); length on the smoothed path,Medium
+A22,Sec 3.4,Smoothed curve could hit an obstacle,"Collision-check the curve; halve offsets up to 3 times, else keep the corner",Low
+A24,Sec 2/4,Heuristic of the traditional A* and BA*,CALIBRATED: Manhattan - reproduces published length and turns of A* and BA* on all 4 maps,Resolved
+A25,Sec 4,Meaning of 'Number of Nodes',CALIBRATED: all generated nodes (open + closed); expanded-only is 40-70% too low,Resolved
+A26,Fig 4,Exact meeting test,CALIBRATED: node just closed by one side is already closed by the other; reproduces BA* nodes +-1,Resolved
+A27,[28],Angle used to choose the 5 directions of [28],Angle from the current node to the goal; keep the 5 directions within the smallest angular difference,Low
+A28,Sec 3.3,Pruning method of Huang et al. [27] only described in one sentence,"Reconstructed: remove collinear nodes, then drop a turning point if the last kept vertex sees the next turning point (greedy)",Medium
+A29,Sec 3.2,Alternating bidirectional search of Li et al. [26] only described qualitatively,Reconstructed: each front's heuristic = switching distance to the opposite current node; 8-neighbourhood; Fig. 4 meeting rule,Medium

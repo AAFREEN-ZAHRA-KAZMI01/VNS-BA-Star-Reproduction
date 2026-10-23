@@ -1,0 +1,18 @@
+{
+  "name": "map_C_60",
+  "size": 60,
+  "start": [
+    3,
+    17
+  ],
+  "goal": [
+    55,
+    32
+  ],
+  "density": 0.2494,
+  "source": "digitised from Fig. 10 (PDF p.11), 5-subfigure majority vote",
+  "convention": "grid[r,c], r=0 bottom; points (c,r); txt top row first",
+  "figure": "Fig. 10",
+  "mean_agreement_pct": 100.0,
+  "disputed_cells": 0
+}

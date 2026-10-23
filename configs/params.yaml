@@ -1,0 +1,107 @@
+paper:
+  title: 'VNS-BA*: An Improved Bidirectional A* Path Planning Algorithm Based on Variable
+    Neighborhood Search'
+  doi: 10.3390/s24216929
+heuristic:
+  omega: 0.5
+  eta: 0.5
+  distance_switch: euclidean_if_line_of_sight_else_manhattan
+  obstacle_density: obstacle_cells / rectangle_cells (A1)
+neighborhood:
+  base: 8
+  axis_extension: 3
+  quadrant_extension: 5
+  fallback_if_any_8_blocked: true
+  move_cost: euclidean
+  diagonal_rule: free
+bidirectional:
+  expansion_order: alternate_forward_first
+  meet_condition: node_in_open_of_one_side_and_closed_of_other
+  meet_rule: pop_closed (A26)
+  f_evaluation: at_generation (A20)
+post_processing:
+  pruning: greedy_line_of_sight
+  collision_check: supercover_line
+  smoothing: local_cubic_spline
+  spline_param: chord_length
+  spline_boundary: natural
+  control_offset_cells:
+  - 1.0
+  - 2.0
+  spline_offset_cells: 1.0
+  outer_factor: 2.0
+  collision_retries: 3
+experiments:
+  maps:
+  - map_A_20
+  - map_B_40
+  - map_C_60
+  - map_D_80
+  tuning_maps:
+  - tune_a
+  - tune_b
+  - tune_c
+  - tune_d
+  weight_grid_step: 0.1
+  timing_repeats: 30
+  random_map_seeds:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
+  - 17
+  - 18
+  - 19
+  - 20
+  - 21
+  - 22
+  - 23
+  - 24
+  - 25
+  - 26
+  - 27
+  - 28
+  - 29
+  random_map_density: 0.2
+  algorithms:
+  - astar
+  - improved_astar_28
+  - bastar
+  - improved_bastar_29
+  - vns_bastar
+  map_dir: maps
+  random_map_dir: maps/random
+  random_map_sizes:
+  - 20
+  - 40
+  - 60
+  - 80
+baselines:
+  astar:
+    heuristic: manhattan (A24)
+  bastar:
+    heuristic: manhattan (A24)
+    meet_rule: pop_closed
+  improved_astar_28:
+    neighbourhood: 5 directions towards goal (A27)
+    f: g + e^P * Manhattan
+  improved_bastar_29:
+    h: e^rho * (Euclid + perpendicular distance to SG) (A13)
+    meet_rule: pop_in_open
+metrics:
+  nodes: generated (open+closed) (A25)
+  turns: pruned polyline (A21)
+  length: final (smoothed) path

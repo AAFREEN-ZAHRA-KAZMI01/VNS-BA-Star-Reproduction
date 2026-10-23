@@ -1,0 +1,16 @@
+{
+  "name": "tune_a",
+  "size": 20,
+  "start": [
+    19,
+    19
+  ],
+  "goal": [
+    0,
+    0
+  ],
+  "density": 0.1725,
+  "source": "digitised from Fig. 3(a) (PDF p.6)",
+  "convention": "grid[r,c], r=0 bottom; points (c,r); txt top row first",
+  "figure": "Fig. 3(a)"
+}

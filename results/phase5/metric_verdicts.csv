@@ -1,0 +1,6 @@
+metric,published,ours,difference_pct,verdict,reason
+Number of nodes,241.0,226.75,-5.912863070539419,Comparable,mean difference -5.9 %
+Number of turns,6.5,7.75,19.23076923076923,Comparable (slightly higher),+1 to +3 turns per map (mean +19.2 %)
+Turn angle (deg),333.703,211.86044309826076,-36.512274957593796,Improved (definition-dependent),Lower angle; measured on pruned polyline (A21)
+Path length,62.489000000000004,61.11324365794623,-2.2015976284686527,Comparable,mean difference -2.2 %
+Planning time (s),17.661749999999998,0.019601281875001274,-99.8890184615058,Not comparable,MATLAB vs Python and unreported timing protocol; ms vs s (E6)

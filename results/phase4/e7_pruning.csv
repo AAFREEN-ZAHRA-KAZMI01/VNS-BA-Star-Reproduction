@@ -1,0 +1,1117 @@
+map,group,source,method,turns,turn_angle_deg,length
+map_A_20,paper maps,astar,raw (collinear removed),7,315.0,28.627416997969522
+map_A_20,paper maps,astar,Huang et al. [27],5,146.30993247402023,28.181665299405118
+map_A_20,paper maps,astar,proposed (Sec. 3.3),5,146.30993247402023,28.181665299405118
+map_A_20,paper maps,bastar,raw (collinear removed),10,450.0,28.62741699796952
+map_A_20,paper maps,bastar,Huang et al. [27],5,109.44003482817621,27.696383925166547
+map_A_20,paper maps,bastar,proposed (Sec. 3.3),5,109.44003482817621,27.696383925166547
+map_A_20,paper maps,vns_bastar,raw (collinear removed),11,343.73979529168804,29.264553118603413
+map_A_20,paper maps,vns_bastar,Huang et al. [27],5,114.89265681598873,28.679143857428574
+map_A_20,paper maps,vns_bastar,proposed (Sec. 3.3),5,114.89265681598873,28.679143857428574
+map_B_40,paper maps,astar,raw (collinear removed),9,405.00000000000017,61.59797974644667
+map_B_40,paper maps,astar,Huang et al. [27],7,232.5946433685915,60.32303005787368
+map_B_40,paper maps,astar,proposed (Sec. 3.3),7,232.5946433685915,60.32303005787368
+map_B_40,paper maps,bastar,raw (collinear removed),12,540.0000000000002,61.59797974644666
+map_B_40,paper maps,bastar,Huang et al. [27],7,195.72474572274743,59.416180019412934
+map_B_40,paper maps,bastar,proposed (Sec. 3.3),7,132.2057855531218,58.69103630448049
+map_B_40,paper maps,vns_bastar,raw (collinear removed),15,540.0000000000001,60.885397406953444
+map_B_40,paper maps,vns_bastar,Huang et al. [27],7,158.85484807690344,59.16424411720822
+map_B_40,paper maps,vns_bastar,proposed (Sec. 3.3),7,132.2057855531218,58.69103630448049
+map_C_60,paper maps,astar,raw (collinear removed),7,315.0,59.384776310850235
+map_C_60,paper maps,astar,Huang et al. [27],5,134.99999999999997,57.93507292478512
+map_C_60,paper maps,astar,proposed (Sec. 3.3),5,134.99999999999997,57.93507292478512
+map_C_60,paper maps,bastar,raw (collinear removed),8,360.0,59.384776310850235
+map_C_60,paper maps,bastar,Huang et al. [27],4,100.45642225143433,57.944107045806774
+map_C_60,paper maps,bastar,proposed (Sec. 3.3),4,87.3044712198613,56.60479819744018
+map_C_60,paper maps,vns_bastar,raw (collinear removed),16,576.869897645844,62.63618401021467
+map_C_60,paper maps,vns_bastar,Huang et al. [27],4,104.03624346792651,58.57238500284665
+map_C_60,paper maps,vns_bastar,proposed (Sec. 3.3),4,104.03624346792648,57.51573575356743
+map_D_80,paper maps,astar,raw (collinear removed),25,1125.0,103.29646455628165
+map_D_80,paper maps,astar,Huang et al. [27],22,861.3401917459099,102.50576053511314
+map_D_80,paper maps,astar,proposed (Sec. 3.3),22,861.3401917459099,102.50576053511314
+map_D_80,paper maps,bastar,raw (collinear removed),24,1080.0,102.12489168102785
+map_D_80,paper maps,bastar,Huang et al. [27],19,746.949884683442,100.58090628148663
+map_D_80,paper maps,bastar,proposed (Sec. 3.3),19,306.14477181680314,98.18746594033455
+map_D_80,paper maps,vns_bastar,raw (collinear removed),26,990.0,108.12585398970452
+map_D_80,paper maps,vns_bastar,Huang et al. [27],15,562.2865572526742,104.91272507611606
+map_D_80,paper maps,vns_bastar,proposed (Sec. 3.3),15,496.30708655600597,100.72967145377442
+rand_20_s00,random 20x20,astar,raw (collinear removed),6,270.0,28.041630560342618
+rand_20_s00,random 20x20,astar,Huang et al. [27],6,270.0,28.041630560342618
+rand_20_s00,random 20x20,astar,proposed (Sec. 3.3),6,270.0,28.041630560342618
+rand_20_s00,random 20x20,bastar,raw (collinear removed),7,315.0,28.041630560342615
+rand_20_s00,random 20x20,bastar,Huang et al. [27],6,233.13010235415598,27.798989873223334
+rand_20_s00,random 20x20,bastar,proposed (Sec. 3.3),6,233.13010235415598,27.798989873223334
+rand_20_s00,random 20x20,vns_bastar,raw (collinear removed),7,315.0,28.62741699796952
+rand_20_s00,random 20x20,vns_bastar,Huang et al. [27],6,233.13010235415598,28.38477631085024
+rand_20_s00,random 20x20,vns_bastar,proposed (Sec. 3.3),6,171.20258929000894,27.973087518576254
+rand_20_s01,random 20x20,astar,raw (collinear removed),6,270.0,28.04163056034261
+rand_20_s01,random 20x20,astar,Huang et al. [27],5,185.19442890773482,27.78081242438379
+rand_20_s01,random 20x20,astar,proposed (Sec. 3.3),5,185.19442890773482,27.78081242438379
+rand_20_s01,random 20x20,bastar,raw (collinear removed),6,270.0,28.041630560342618
+rand_20_s01,random 20x20,bastar,Huang et al. [27],5,185.19442890773482,27.780812424383797
+rand_20_s01,random 20x20,bastar,proposed (Sec. 3.3),5,105.58328672320447,27.51999428842497
+rand_20_s01,random 20x20,vns_bastar,raw (collinear removed),8,450.0,29.277698537842404
+rand_20_s01,random 20x20,vns_bastar,Huang et al. [27],5,148.3245312618908,27.528876522179083
+rand_20_s01,random 20x20,vns_bastar,proposed (Sec. 3.3),5,68.71338907736045,27.268058386220257
+rand_20_s02,random 20x20,astar,raw (collinear removed),7,315.0,28.041630560342615
+rand_20_s02,random 20x20,astar,Huang et al. [27],6,236.30993247402023,27.818754711060414
+rand_20_s02,random 20x20,astar,proposed (Sec. 3.3),6,236.30993247402023,27.818754711060414
+rand_20_s02,random 20x20,bastar,raw (collinear removed),8,360.0,28.041630560342618
+rand_20_s02,random 20x20,bastar,Huang et al. [27],6,202.61986494804043,27.595878861778214
+rand_20_s02,random 20x20,bastar,proposed (Sec. 3.3),6,128.88006965635242,27.35323817465893
+rand_20_s02,random 20x20,vns_bastar,raw (collinear removed),12,486.869897645844,28.856912265849815
+rand_20_s02,random 20x20,vns_bastar,Huang et al. [27],6,209.74488129694222,28.048249978940706
+rand_20_s02,random 20x20,vns_bastar,proposed (Sec. 3.3),6,136.00508600525419,27.805609291821423
+rand_20_s03,random 20x20,astar,raw (collinear removed),7,315.0,28.041630560342615
+rand_20_s03,random 20x20,astar,Huang et al. [27],7,315.0,28.041630560342615
+rand_20_s03,random 20x20,astar,proposed (Sec. 3.3),7,315.0,28.041630560342615
+rand_20_s03,random 20x20,bastar,raw (collinear removed),7,315.0,28.041630560342615
+rand_20_s03,random 20x20,bastar,Huang et al. [27],7,315.0,28.041630560342615
+rand_20_s03,random 20x20,bastar,proposed (Sec. 3.3),7,315.0,28.041630560342615
+rand_20_s03,random 20x20,vns_bastar,raw (collinear removed),7,495.0,30.284271247461902
+rand_20_s03,random 20x20,vns_bastar,Huang et al. [27],5,318.8140748342903,28.917145874961683
+rand_20_s03,random 20x20,vns_bastar,proposed (Sec. 3.3),5,265.68397248013434,28.739000290088377
+rand_20_s04,random 20x20,astar,raw (collinear removed),9,405.0,28.62741699796952
+rand_20_s04,random 20x20,astar,Huang et al. [27],8,333.434948822922,28.449271413096213
+rand_20_s04,random 20x20,astar,proposed (Sec. 3.3),8,333.434948822922,28.449271413096213
+rand_20_s04,random 20x20,bastar,raw (collinear removed),3,135.0,27.45584412271571
+rand_20_s04,random 20x20,bastar,Huang et al. [27],2,53.13010235415599,27.213203435596427
+rand_20_s04,random 20x20,bastar,proposed (Sec. 3.3),2,26.56505117707799,27.03505785072312
+rand_20_s04,random 20x20,vns_bastar,raw (collinear removed),4,180.0,27.455844122715714
+rand_20_s04,random 20x20,vns_bastar,Huang et al. [27],2,29.744881296942225,27.054822688560204
+rand_20_s04,random 20x20,vns_bastar,proposed (Sec. 3.3),2,29.744881296942225,27.054822688560204
+rand_20_s05,random 20x20,astar,raw (collinear removed),5,225.0,28.041630560342618
+rand_20_s05,random 20x20,astar,Huang et al. [27],3,79.89496363496204,27.582779630929174
+rand_20_s05,random 20x20,astar,proposed (Sec. 3.3),3,79.89496363496204,27.582779630929174
+rand_20_s05,random 20x20,bastar,raw (collinear removed),4,180.0,27.45584412271571
+rand_20_s05,random 20x20,bastar,Huang et al. [27],3,91.97493401088197,27.175138778175572
+rand_20_s05,random 20x20,bastar,proposed (Sec. 3.3),3,91.97493401088197,27.175138778175572
+rand_20_s05,random 20x20,vns_bastar,raw (collinear removed),6,306.869897645844,28.691912100215504
+rand_20_s05,random 20x20,vns_bastar,Huang et al. [27],3,214.89496363496204,28.411206755675362
+rand_20_s05,random 20x20,vns_bastar,proposed (Sec. 3.3),3,214.89496363496204,28.411206755675362
+rand_20_s06,random 20x20,astar,raw (collinear removed),8,360.0,29.213203435596427
+rand_20_s06,random 20x20,astar,Huang et al. [27],6,201.80140948635182,28.54706526870254
+rand_20_s06,random 20x20,astar,proposed (Sec. 3.3),6,201.80140948635182,28.54706526870254
+rand_20_s06,random 20x20,bastar,raw (collinear removed),5,225.0,28.041630560342615
+rand_20_s06,random 20x20,bastar,Huang et al. [27],3,53.13010235415599,27.53817173726451
+rand_20_s06,random 20x20,bastar,proposed (Sec. 3.3),3,53.13010235415599,27.53817173726451
+rand_20_s06,random 20x20,vns_bastar,raw (collinear removed),7,315.0,28.041630560342615
+rand_20_s06,random 20x20,vns_bastar,Huang et al. [27],6,233.13010235415598,27.79898987322333
+rand_20_s06,random 20x20,vns_bastar,proposed (Sec. 3.3),6,233.13010235415598,27.79898987322333
+rand_20_s07,random 20x20,astar,raw (collinear removed),10,450.0,28.627416997969526
+rand_20_s07,random 20x20,astar,Huang et al. [27],8,311.18592516570965,28.135192024810305
+rand_20_s07,random 20x20,astar,proposed (Sec. 3.3),8,311.18592516570965,28.135192024810305
+rand_20_s07,random 20x20,bastar,raw (collinear removed),3,135.0,27.45584412271571
+rand_20_s07,random 20x20,bastar,Huang et al. [27],3,135.0,27.45584412271571
+rand_20_s07,random 20x20,bastar,proposed (Sec. 3.3),3,67.61986494804044,27.23296827343351
+rand_20_s07,random 20x20,vns_bastar,raw (collinear removed),3,135.0,27.45584412271571
+rand_20_s07,random 20x20,vns_bastar,Huang et al. [27],3,135.0,27.45584412271571
+rand_20_s07,random 20x20,vns_bastar,proposed (Sec. 3.3),3,67.61986494804044,27.23296827343351
+rand_20_s08,random 20x20,astar,raw (collinear removed),3,135.0,27.45584412271571
+rand_20_s08,random 20x20,astar,Huang et al. [27],3,135.0,27.45584412271571
+rand_20_s08,random 20x20,astar,proposed (Sec. 3.3),3,135.0,27.45584412271571
+rand_20_s08,random 20x20,bastar,raw (collinear removed),3,135.0,27.45584412271571
+rand_20_s08,random 20x20,bastar,Huang et al. [27],3,135.0,27.45584412271571
+rand_20_s08,random 20x20,bastar,proposed (Sec. 3.3),3,135.0,27.45584412271571
+rand_20_s08,random 20x20,vns_bastar,raw (collinear removed),3,135.0,27.45584412271571
+rand_20_s08,random 20x20,vns_bastar,Huang et al. [27],3,135.0,27.45584412271571
+rand_20_s08,random 20x20,vns_bastar,proposed (Sec. 3.3),3,67.61986494804044,27.23296827343351
+rand_20_s09,random 20x20,astar,raw (collinear removed),5,225.0,28.62741699796952
+rand_20_s09,random 20x20,astar,Huang et al. [27],4,139.3987053549955,28.361680081023838
+rand_20_s09,random 20x20,astar,proposed (Sec. 3.3),4,139.3987053549955,28.361680081023838
+rand_20_s09,random 20x20,bastar,raw (collinear removed),5,225.0,28.62741699796952
+rand_20_s09,random 20x20,bastar,Huang et al. [27],4,139.3987053549955,28.361680081023838
+rand_20_s09,random 20x20,bastar,proposed (Sec. 3.3),4,139.3987053549955,28.361680081023838
+rand_20_s09,random 20x20,vns_bastar,raw (collinear removed),8,261.869897645844,28.27112582822291
+rand_20_s09,random 20x20,vns_bastar,Huang et al. [27],6,192.52880770915152,28.10974417881912
+rand_20_s09,random 20x20,vns_bastar,proposed (Sec. 3.3),6,155.6589100633075,27.857808276614403
+rand_20_s10,random 20x20,astar,raw (collinear removed),3,135.0,27.45584412271571
+rand_20_s10,random 20x20,astar,Huang et al. [27],3,135.0,27.45584412271571
+rand_20_s10,random 20x20,astar,proposed (Sec. 3.3),3,135.0,27.45584412271571
+rand_20_s10,random 20x20,bastar,raw (collinear removed),8,360.0,28.041630560342615
+rand_20_s10,random 20x20,bastar,Huang et al. [27],6,198.434948822922,27.597748058523624
+rand_20_s10,random 20x20,bastar,proposed (Sec. 3.3),6,131.05481377096243,27.374872209241424
+rand_20_s10,random 20x20,vns_bastar,raw (collinear removed),8,360.0,28.041630560342615
+rand_20_s10,random 20x20,vns_bastar,Huang et al. [27],3,108.43494882292201,27.277698537842404
+rand_20_s10,random 20x20,vns_bastar,proposed (Sec. 3.3),3,108.43494882292201,27.277698537842404
+rand_20_s11,random 20x20,astar,raw (collinear removed),3,135.0,27.455844122715714
+rand_20_s11,random 20x20,astar,Huang et al. [27],2,56.30993247402022,27.23296827343351
+rand_20_s11,random 20x20,astar,proposed (Sec. 3.3),2,56.30993247402022,27.23296827343351
+rand_20_s11,random 20x20,bastar,raw (collinear removed),3,135.0,27.455844122715714
+rand_20_s11,random 20x20,bastar,Huang et al. [27],2,56.30993247402022,27.23296827343351
+rand_20_s11,random 20x20,bastar,proposed (Sec. 3.3),2,56.30993247402022,27.23296827343351
+rand_20_s11,random 20x20,vns_bastar,raw (collinear removed),5,315.0,28.87005768508881
+rand_20_s11,random 20x20,vns_bastar,Huang et al. [27],4,236.30993247402023,28.647181835806606
+rand_20_s11,random 20x20,vns_bastar,proposed (Sec. 3.3),4,236.30993247402023,28.647181835806606
+rand_20_s12,random 20x20,astar,raw (collinear removed),9,405.0,29.213203435596423
+rand_20_s12,random 20x20,astar,Huang et al. [27],7,243.434948822922,28.783121948518406
+rand_20_s12,random 20x20,astar,proposed (Sec. 3.3),7,243.434948822922,28.783121948518406
+rand_20_s12,random 20x20,bastar,raw (collinear removed),12,540.0,29.213203435596423
+rand_20_s12,random 20x20,bastar,Huang et al. [27],8,216.86989764584402,28.335627239768083
+rand_20_s12,random 20x20,bastar,proposed (Sec. 3.3),8,216.86989764584402,28.335627239768083
+rand_20_s12,random 20x20,vns_bastar,raw (collinear removed),13,613.739795291688,32.27112582822291
+rand_20_s12,random 20x20,vns_bastar,Huang et al. [27],7,270.0,30.028485141103623
+rand_20_s12,random 20x20,vns_bastar,proposed (Sec. 3.3),7,216.86989764584402,29.850339556230317
+rand_20_s13,random 20x20,astar,raw (collinear removed),13,585.0,29.21320343559643
+rand_20_s13,random 20x20,astar,Huang et al. [27],10,375.25511870305775,28.515515834827305
+rand_20_s13,random 20x20,astar,proposed (Sec. 3.3),10,375.25511870305775,28.515515834827305
+rand_20_s13,random 20x20,bastar,raw (collinear removed),3,135.0,27.45584412271571
+rand_20_s13,random 20x20,bastar,Huang et al. [27],3,135.0,27.45584412271571
+rand_20_s13,random 20x20,bastar,proposed (Sec. 3.3),3,48.179830119864235,27.054822688560208
+rand_20_s13,random 20x20,vns_bastar,raw (collinear removed),8,306.869897645844,27.863484975469312
+rand_20_s13,random 20x20,vns_bastar,Huang et al. [27],6,191.30993247402023,27.595878861778218
+rand_20_s13,random 20x20,vns_bastar,proposed (Sec. 3.3),6,138.17983011986422,27.41773327690491
+rand_20_s14,random 20x20,astar,raw (collinear removed),7,315.0,28.04163056034261
+rand_20_s14,random 20x20,astar,Huang et al. [27],5,153.434948822922,27.609754963409777
+rand_20_s14,random 20x20,astar,proposed (Sec. 3.3),5,153.434948822922,27.609754963409777
+rand_20_s14,random 20x20,bastar,raw (collinear removed),7,315.0,28.04163056034261
+rand_20_s14,random 20x20,bastar,Huang et al. [27],5,153.434948822922,27.609754963409777
+rand_20_s14,random 20x20,bastar,proposed (Sec. 3.3),5,153.434948822922,27.609754963409777
+rand_20_s14,random 20x20,vns_bastar,raw (collinear removed),10,433.73979529168804,29.685339390596006
+rand_20_s14,random 20x20,vns_bastar,Huang et al. [27],5,79.08216254802196,27.789752664800424
+rand_20_s14,random 20x20,vns_bastar,proposed (Sec. 3.3),5,64.83212985021838,27.725257562554443
+rand_20_s15,random 20x20,astar,raw (collinear removed),7,315.0,28.041630560342615
+rand_20_s15,random 20x20,astar,Huang et al. [27],5,146.86149935331642,27.53325295627765
+rand_20_s15,random 20x20,astar,proposed (Sec. 3.3),5,146.86149935331642,27.53325295627765
+rand_20_s15,random 20x20,bastar,raw (collinear removed),8,360.0,28.041630560342615
+rand_20_s15,random 20x20,bastar,Huang et al. [27],5,120.29644817623843,27.355107371404344
+rand_20_s15,random 20x20,bastar,proposed (Sec. 3.3),5,120.29644817623843,27.355107371404344
+rand_20_s15,random 20x20,vns_bastar,raw (collinear removed),9,306.869897645844,28.27112582822291
+rand_20_s15,random 20x20,vns_bastar,Huang et al. [27],7,206.565051177078,27.945399608686785
+rand_20_s15,random 20x20,vns_bastar,proposed (Sec. 3.3),7,181.507435758775,27.785646718617514
+rand_20_s16,random 20x20,astar,raw (collinear removed),7,315.0,28.041630560342618
+rand_20_s16,random 20x20,astar,Huang et al. [27],5,140.19442890773482,27.527082412324262
+rand_20_s16,random 20x20,astar,proposed (Sec. 3.3),5,140.19442890773482,27.527082412324262
+rand_20_s16,random 20x20,bastar,raw (collinear removed),8,360.0,28.041630560342615
+rand_20_s16,random 20x20,bastar,Huang et al. [27],4,66.45463361604679,27.28623583505979
+rand_20_s16,random 20x20,bastar,proposed (Sec. 3.3),4,41.397018197743776,27.12648294499052
+rand_20_s16,random 20x20,vns_bastar,raw (collinear removed),8,306.869897645844,28.449271413096213
+rand_20_s16,random 20x20,vns_bastar,Huang et al. [27],3,75.25204432603783,27.590209551016695
+rand_20_s16,random 20x20,vns_bastar,proposed (Sec. 3.3),3,75.25204432603783,27.590209551016695
+rand_20_s17,random 20x20,astar,raw (collinear removed),7,315.0,28.62741699796952
+rand_20_s17,random 20x20,astar,Huang et al. [27],6,225.0,28.404541148687315
+rand_20_s17,random 20x20,astar,proposed (Sec. 3.3),6,225.0,28.404541148687315
+rand_20_s17,random 20x20,bastar,raw (collinear removed),7,315.0,28.62741699796952
+rand_20_s17,random 20x20,bastar,Huang et al. [27],6,225.0,28.404541148687315
+rand_20_s17,random 20x20,bastar,proposed (Sec. 3.3),6,225.0,28.404541148687315
+rand_20_s17,random 20x20,vns_bastar,raw (collinear removed),12,540.0,28.627416997969522
+rand_20_s17,random 20x20,vns_bastar,Huang et al. [27],11,450.0,28.449271413096216
+rand_20_s17,random 20x20,vns_bastar,proposed (Sec. 3.3),11,323.130102354156,28.028485141103626
+rand_20_s18,random 20x20,astar,raw (collinear removed),9,405.0,29.213203435596427
+rand_20_s18,random 20x20,astar,Huang et al. [27],8,333.434948822922,29.03505785072312
+rand_20_s18,random 20x20,astar,proposed (Sec. 3.3),8,333.434948822922,29.03505785072312
+rand_20_s18,random 20x20,bastar,raw (collinear removed),9,405.0,29.213203435596427
+rand_20_s18,random 20x20,bastar,Huang et al. [27],8,333.434948822922,29.03505785072312
+rand_20_s18,random 20x20,bastar,proposed (Sec. 3.3),8,333.434948822922,29.03505785072312
+rand_20_s18,random 20x20,vns_bastar,raw (collinear removed),15,720.0,35.45584412271571
+rand_20_s18,random 20x20,vns_bastar,Huang et al. [27],13,625.8150838748816,34.9625044890621
+rand_20_s18,random 20x20,vns_bastar,proposed (Sec. 3.3),13,558.434948822922,34.739628639779895
+rand_20_s19,random 20x20,astar,raw (collinear removed),18,810.0,30.38477631085024
+rand_20_s19,random 20x20,astar,Huang et al. [27],12,360.0,29.315127328848128
+rand_20_s19,random 20x20,astar,proposed (Sec. 3.3),12,360.0,29.315127328848128
+rand_20_s19,random 20x20,bastar,raw (collinear removed),18,810.0,30.38477631085024
+rand_20_s19,random 20x20,bastar,Huang et al. [27],14,450.0,29.582733442539222
+rand_20_s19,random 20x20,bastar,proposed (Sec. 3.3),14,396.869897645844,29.330797540334505
+rand_20_s19,random 20x20,vns_bastar,raw (collinear removed),16,810.0,32.04163056034262
+rand_20_s19,random 20x20,vns_bastar,Huang et al. [27],10,556.2602047083119,31.0995529529691
+rand_20_s19,random 20x20,vns_bastar,proposed (Sec. 3.3),10,450.0,30.27112582822291
+rand_20_s20,random 20x20,astar,raw (collinear removed),4,180.0,27.45584412271571
+rand_20_s20,random 20x20,astar,Huang et al. [27],3,96.34019174590992,27.20211411065618
+rand_20_s20,random 20x20,astar,proposed (Sec. 3.3),3,96.34019174590992,27.20211411065618
+rand_20_s20,random 20x20,bastar,raw (collinear removed),4,180.0,27.45584412271571
+rand_20_s20,random 20x20,bastar,Huang et al. [27],3,96.34019174590992,27.20211411065618
+rand_20_s20,random 20x20,bastar,proposed (Sec. 3.3),3,96.34019174590992,27.20211411065618
+rand_20_s20,random 20x20,vns_bastar,raw (collinear removed),4,216.86989764584402,28.513766515342198
+rand_20_s20,random 20x20,vns_bastar,Huang et al. [27],2,43.21008939175394,27.177879366476944
+rand_20_s20,random 20x20,vns_bastar,proposed (Sec. 3.3),2,25.264836161961142,27.065427991400703
+rand_20_s21,random 20x20,astar,raw (collinear removed),6,270.0,28.041630560342618
+rand_20_s21,random 20x20,astar,Huang et al. [27],5,180.0,27.818754711060414
+rand_20_s21,random 20x20,astar,proposed (Sec. 3.3),5,180.0,27.818754711060414
+rand_20_s21,random 20x20,bastar,raw (collinear removed),4,180.0,28.041630560342618
+rand_20_s21,random 20x20,bastar,Huang et al. [27],4,180.0,28.041630560342618
+rand_20_s21,random 20x20,bastar,proposed (Sec. 3.3),4,143.13010235415598,27.789694658137904
+rand_20_s21,random 20x20,vns_bastar,raw (collinear removed),4,180.0,28.041630560342618
+rand_20_s21,random 20x20,vns_bastar,Huang et al. [27],4,180.0,28.041630560342618
+rand_20_s21,random 20x20,vns_bastar,proposed (Sec. 3.3),4,180.0,28.041630560342618
+rand_20_s22,random 20x20,astar,raw (collinear removed),4,180.0,28.627416997969522
+rand_20_s22,random 20x20,astar,Huang et al. [27],4,180.0,28.627416997969522
+rand_20_s22,random 20x20,astar,proposed (Sec. 3.3),4,180.0,28.627416997969522
+rand_20_s22,random 20x20,bastar,raw (collinear removed),4,180.0,28.041630560342618
+rand_20_s22,random 20x20,bastar,Huang et al. [27],4,180.0,28.041630560342618
+rand_20_s22,random 20x20,bastar,proposed (Sec. 3.3),4,97.6281496685807,27.772281436465597
+rand_20_s22,random 20x20,vns_bastar,raw (collinear removed),10,450.0,30.384776310850235
+rand_20_s22,random 20x20,vns_bastar,Huang et al. [27],9,360.0,29.97308751857625
+rand_20_s22,random 20x20,vns_bastar,proposed (Sec. 3.3),9,360.0,29.97308751857625
+rand_20_s23,random 20x20,astar,raw (collinear removed),3,135.0,27.45584412271571
+rand_20_s23,random 20x20,astar,Huang et al. [27],3,135.0,27.45584412271571
+rand_20_s23,random 20x20,astar,proposed (Sec. 3.3),3,135.0,27.45584412271571
+rand_20_s23,random 20x20,bastar,raw (collinear removed),3,135.0,27.45584412271571
+rand_20_s23,random 20x20,bastar,Huang et al. [27],3,135.0,27.45584412271571
+rand_20_s23,random 20x20,bastar,proposed (Sec. 3.3),3,135.0,27.45584412271571
+rand_20_s23,random 20x20,vns_bastar,raw (collinear removed),8,540.0,30.284271247461902
+rand_20_s23,random 20x20,vns_bastar,Huang et al. [27],6,316.39718102729637,29.012581805104027
+rand_20_s23,random 20x20,vns_bastar,proposed (Sec. 3.3),5,112.61986494804044,27.528707963044898
+rand_20_s24,random 20x20,astar,raw (collinear removed),8,360.0,29.213203435596423
+rand_20_s24,random 20x20,astar,Huang et al. [27],6,184.3987053549955,28.695530616446028
+rand_20_s24,random 20x20,astar,proposed (Sec. 3.3),6,184.3987053549955,28.695530616446028
+rand_20_s24,random 20x20,bastar,raw (collinear removed),9,405.0,29.798989873223327
+rand_20_s24,random 20x20,bastar,Huang et al. [27],6,239.03624346792648,28.97561228867536
+rand_20_s24,random 20x20,bastar,proposed (Sec. 3.3),7,212.76899286742926,29.2229776884842
+rand_20_s24,random 20x20,vns_bastar,raw (collinear removed),10,540.0,29.45584412271571
+rand_20_s24,random 20x20,vns_bastar,Huang et al. [27],5,274.3987053549955,28.604320768143126
+rand_20_s24,random 20x20,vns_bastar,proposed (Sec. 3.3),5,274.3987053549955,28.604320768143126
+rand_20_s25,random 20x20,astar,raw (collinear removed),6,270.0,28.62741699796952
+rand_20_s25,random 20x20,astar,Huang et al. [27],6,270.0,28.62741699796952
+rand_20_s25,random 20x20,astar,proposed (Sec. 3.3),6,270.0,28.62741699796952
+rand_20_s25,random 20x20,bastar,raw (collinear removed),6,270.0,28.62741699796952
+rand_20_s25,random 20x20,bastar,Huang et al. [27],6,270.0,28.62741699796952
+rand_20_s25,random 20x20,bastar,proposed (Sec. 3.3),6,270.0,28.62741699796952
+rand_20_s25,random 20x20,vns_bastar,raw (collinear removed),11,540.0,29.863484975469312
+rand_20_s25,random 20x20,vns_bastar,Huang et al. [27],9,376.26020470831196,28.709331631186995
+rand_20_s25,random 20x20,vns_bastar,proposed (Sec. 3.3),9,351.202589290009,28.549578741117724
+rand_20_s26,random 20x20,astar,raw (collinear removed),3,135.0,27.45584412271571
+rand_20_s26,random 20x20,astar,Huang et al. [27],2,63.43494882292201,27.277698537842404
+rand_20_s26,random 20x20,astar,proposed (Sec. 3.3),2,63.43494882292201,27.277698537842404
+rand_20_s26,random 20x20,bastar,raw (collinear removed),4,180.0,27.45584412271571
+rand_20_s26,random 20x20,bastar,Huang et al. [27],2,23.629377730656827,27.016880401883583
+rand_20_s26,random 20x20,bastar,proposed (Sec. 3.3),2,23.629377730656827,27.016880401883583
+rand_20_s26,random 20x20,vns_bastar,raw (collinear removed),4,126.86989764584402,27.277698537842404
+rand_20_s26,random 20x20,vns_bastar,Huang et al. [27],2,24.77514056883193,27.023968525782873
+rand_20_s26,random 20x20,vns_bastar,proposed (Sec. 3.3),2,24.77514056883193,27.023968525782873
+rand_20_s27,random 20x20,astar,raw (collinear removed),3,135.0,27.455844122715714
+rand_20_s27,random 20x20,astar,Huang et al. [27],3,135.0,27.455844122715714
+rand_20_s27,random 20x20,astar,proposed (Sec. 3.3),3,135.0,27.455844122715714
+rand_20_s27,random 20x20,bastar,raw (collinear removed),6,270.0,28.041630560342615
+rand_20_s27,random 20x20,bastar,Huang et al. [27],5,198.434948822922,27.86348497546931
+rand_20_s27,random 20x20,bastar,proposed (Sec. 3.3),5,94.18491612511843,27.388673223982394
+rand_20_s27,random 20x20,vns_bastar,raw (collinear removed),6,270.0,28.041630560342615
+rand_20_s27,random 20x20,vns_bastar,Huang et al. [27],2,30.650667957052868,27.25435158856687
+rand_20_s27,random 20x20,vns_bastar,proposed (Sec. 3.3),2,30.141385552075352,27.248059320050743
+rand_20_s28,random 20x20,astar,raw (collinear removed),11,495.0,29.213203435596427
+rand_20_s28,random 20x20,astar,Huang et al. [27],9,323.130102354156,28.792417163603833
+rand_20_s28,random 20x20,astar,proposed (Sec. 3.3),9,323.130102354156,28.792417163603833
+rand_20_s28,random 20x20,bastar,raw (collinear removed),11,495.0,29.213203435596427
+rand_20_s28,random 20x20,bastar,Huang et al. [27],10,413.130102354156,28.97056274847714
+rand_20_s28,random 20x20,bastar,proposed (Sec. 3.3),10,413.130102354156,28.97056274847714
+rand_20_s28,random 20x20,vns_bastar,raw (collinear removed),10,441.869897645844,30.449271413096213
+rand_20_s28,random 20x20,vns_bastar,Huang et al. [27],8,329.48976259388445,30.161900461568038
+rand_20_s28,random 20x20,vns_bastar,proposed (Sec. 3.3),8,292.61986494804046,29.90996455936332
+rand_20_s29,random 20x20,astar,raw (collinear removed),3,135.0,27.45584412271571
+rand_20_s29,random 20x20,astar,Huang et al. [27],3,135.0,27.45584412271571
+rand_20_s29,random 20x20,astar,proposed (Sec. 3.3),3,135.0,27.45584412271571
+rand_20_s29,random 20x20,bastar,raw (collinear removed),4,180.0,27.45584412271571
+rand_20_s29,random 20x20,bastar,Huang et al. [27],3,93.3664606634298,27.183730202523247
+rand_20_s29,random 20x20,bastar,proposed (Sec. 3.3),3,93.3664606634298,27.183730202523247
+rand_20_s29,random 20x20,vns_bastar,raw (collinear removed),5,360.0,28.87005768508881
+rand_20_s29,random 20x20,vns_bastar,Huang et al. [27],3,93.3664606634298,27.183730202523247
+rand_20_s29,random 20x20,vns_bastar,proposed (Sec. 3.3),3,93.3664606634298,27.183730202523247
+rand_40_s00,random 40x40,astar,raw (collinear removed),11,495.0,58.08326112068523
+rand_40_s00,random 40x40,astar,Huang et al. [27],9,318.3664606634298,57.55032906453394
+rand_40_s00,random 40x40,astar,proposed (Sec. 3.3),9,318.3664606634298,57.55032906453394
+rand_40_s00,random 40x40,bastar,raw (collinear removed),11,495.0,58.08326112068523
+rand_40_s00,random 40x40,bastar,Huang et al. [27],9,318.3664606634298,57.55032906453394
+rand_40_s00,random 40x40,bastar,proposed (Sec. 3.3),9,318.3664606634298,57.55032906453394
+rand_40_s00,random 40x40,vns_bastar,raw (collinear removed),18,810.0,59.31932909818502
+rand_40_s00,random 40x40,vns_bastar,Huang et al. [27],15,612.3835066387667,58.52767316209675
+rand_40_s00,random 40x40,vns_bastar,proposed (Sec. 3.3),15,559.2534042846106,58.10688689010416
+rand_40_s01,random 40x40,astar,raw (collinear removed),17,765.0,58.08326112068523
+rand_40_s01,random 40x40,astar,Huang et al. [27],15,611.565051177078,57.72696995093862
+rand_40_s01,random 40x40,astar,proposed (Sec. 3.3),15,611.565051177078,57.72696995093862
+rand_40_s01,random 40x40,bastar,raw (collinear removed),14,630.0,58.08326112068523
+rand_40_s01,random 40x40,bastar,Huang et al. [27],13,566.565051177078,57.831325218480515
+rand_40_s01,random 40x40,bastar,proposed (Sec. 3.3),13,363.51760776928336,56.954119889805035
+rand_40_s01,random 40x40,vns_bastar,raw (collinear removed),22,990.0,61.076688411065724
+rand_40_s01,random 40x40,vns_bastar,Huang et al. [27],16,619.6951535312339,59.40786315000059
+rand_40_s01,random 40x40,vns_bastar,proposed (Sec. 3.3),16,478.5752231875864,58.942346613599106
+rand_40_s02,random 40x40,astar,raw (collinear removed),12,540.0,57.49747468305832
+rand_40_s02,random 40x40,astar,Huang et al. [27],12,540.0,57.49747468305832
+rand_40_s02,random 40x40,astar,proposed (Sec. 3.3),12,540.0,57.49747468305832
+rand_40_s02,random 40x40,bastar,raw (collinear removed),14,630.0,57.497474683058314
+rand_40_s02,random 40x40,bastar,Huang et al. [27],12,503.130102354156,57.2455387808536
+rand_40_s02,random 40x40,bastar,proposed (Sec. 3.3),12,503.130102354156,57.2455387808536
+rand_40_s02,random 40x40,vns_bastar,raw (collinear removed),19,773.130102354156,58.31275638856552
+rand_40_s02,random 40x40,vns_bastar,Huang et al. [27],11,427.38013505195954,57.41177590215831
+rand_40_s02,random 40x40,vns_bastar,proposed (Sec. 3.3),11,403.60281897270363,57.10010236968325
+rand_40_s03,random 40x40,astar,raw (collinear removed),5,225.0,56.32590180780451
+rand_40_s03,random 40x40,astar,Huang et al. [27],4,138.81407483429035,56.05655268392751
+rand_40_s03,random 40x40,astar,proposed (Sec. 3.3),4,138.81407483429035,56.05655268392751
+rand_40_s03,random 40x40,bastar,raw (collinear removed),5,225.0,56.32590180780451
+rand_40_s03,random 40x40,bastar,Huang et al. [27],4,138.81407483429035,56.05655268392749
+rand_40_s03,random 40x40,bastar,proposed (Sec. 3.3),4,65.07427954260233,55.813911996808216
+rand_40_s03,random 40x40,vns_bastar,raw (collinear removed),5,171.86989764584402,56.14775622293121
+rand_40_s03,random 40x40,vns_bastar,Huang et al. [27],4,138.81407483429035,56.05655268392751
+rand_40_s03,random 40x40,vns_bastar,proposed (Sec. 3.3),4,138.81407483429035,56.05655268392751
+rand_40_s04,random 40x40,astar,raw (collinear removed),13,630.0,59.497474683058314
+rand_40_s04,random 40x40,astar,Huang et al. [27],10,389.383943061759,58.80478095016666
+rand_40_s04,random 40x40,astar,proposed (Sec. 3.3),10,389.383943061759,58.80478095016666
+rand_40_s04,random 40x40,bastar,raw (collinear removed),13,630.0,59.497474683058314
+rand_40_s04,random 40x40,bastar,Huang et al. [27],10,389.383943061759,58.80478095016666
+rand_40_s04,random 40x40,bastar,proposed (Sec. 3.3),10,389.383943061759,58.80478095016666
+rand_40_s04,random 40x40,vns_bastar,raw (collinear removed),19,900.0,62.490901973438824
+rand_40_s04,random 40x40,vns_bastar,Huang et al. [27],14,593.1301023541561,61.248906365742954
+rand_40_s04,random 40x40,vns_bastar,proposed (Sec. 3.3),14,593.1301023541561,61.248906365742954
+rand_40_s05,random 40x40,astar,raw (collinear removed),13,585.0,57.49747468305832
+rand_40_s05,random 40x40,astar,Huang et al. [27],12,501.3401917459099,57.243744670998794
+rand_40_s05,random 40x40,astar,proposed (Sec. 3.3),12,501.3401917459099,57.243744670998794
+rand_40_s05,random 40x40,bastar,raw (collinear removed),16,720.0,57.49747468305833
+rand_40_s05,random 40x40,bastar,Huang et al. [27],11,384.77514056883194,56.6448128141329
+rand_40_s05,random 40x40,bastar,proposed (Sec. 3.3),11,317.39500551687235,56.421936964850694
+rand_40_s05,random 40x40,vns_bastar,raw (collinear removed),28,1243.739795291688,66.55539707568481
+rand_40_s05,random 40x40,vns_bastar,Huang et al. [27],19,707.4558665637388,65.05579037536916
+rand_40_s05,random 40x40,vns_bastar,proposed (Sec. 3.3),19,640.0757315117793,64.83291452608697
+rand_40_s06,random 40x40,astar,raw (collinear removed),7,315.0,56.911688245431414
+rand_40_s06,random 40x40,astar,Huang et al. [27],6,228.36646066342982,56.639574325238954
+rand_40_s06,random 40x40,astar,proposed (Sec. 3.3),6,228.36646066342982,56.639574325238954
+rand_40_s06,random 40x40,bastar,raw (collinear removed),7,315.0,56.911688245431414
+rand_40_s06,random 40x40,bastar,Huang et al. [27],6,228.36646066342982,56.639574325238954
+rand_40_s06,random 40x40,bastar,proposed (Sec. 3.3),6,228.36646066342982,56.639574325238954
+rand_40_s06,random 40x40,vns_bastar,raw (collinear removed),14,486.869897645844,57.54882436606532
+rand_40_s06,random 40x40,vns_bastar,Huang et al. [27],11,376.26020470831196,57.33674862915651
+rand_40_s06,random 40x40,vns_bastar,proposed (Sec. 3.3),11,348.187717772459,57.04564069240107
+rand_40_s07,random 40x40,astar,raw (collinear removed),9,405.0,56.91168824543142
+rand_40_s07,random 40x40,astar,Huang et al. [27],9,405.0,56.91168824543142
+rand_40_s07,random 40x40,astar,proposed (Sec. 3.3),9,405.0,56.91168824543142
+rand_40_s07,random 40x40,bastar,raw (collinear removed),9,405.0,56.91168824543142
+rand_40_s07,random 40x40,bastar,Huang et al. [27],9,405.0,56.91168824543142
+rand_40_s07,random 40x40,bastar,proposed (Sec. 3.3),9,405.0,56.91168824543142
+rand_40_s07,random 40x40,vns_bastar,raw (collinear removed),21,900.0,59.90511553581192
+rand_40_s07,random 40x40,vns_bastar,Huang et al. [27],16,683.130102354156,59.32745341407109
+rand_40_s07,random 40x40,vns_bastar,proposed (Sec. 3.3),16,556.260204708312,58.32088070445158
+rand_40_s08,random 40x40,astar,raw (collinear removed),14,675.0,58.911688245431414
+rand_40_s08,random 40x40,astar,Huang et al. [27],10,391.2523170557172,57.99299399212551
+rand_40_s08,random 40x40,astar,proposed (Sec. 3.3),10,391.2523170557172,57.99299399212551
+rand_40_s08,random 40x40,bastar,raw (collinear removed),12,540.0,59.840620433565945
+rand_40_s08,random 40x40,bastar,Huang et al. [27],11,450.0,59.597979746446654
+rand_40_s08,random 40x40,bastar,proposed (Sec. 3.3),11,262.16763733260524,58.17217243072967
+rand_40_s08,random 40x40,vns_bastar,raw (collinear removed),18,891.869897645844,60.89854282619243
+rand_40_s08,random 40x40,vns_bastar,Huang et al. [27],14,686.3099324740202,60.26802612415662
+rand_40_s08,random 40x40,vns_bastar,proposed (Sec. 3.3),14,400.04972776570827,56.849764622263145
+rand_40_s09,random 40x40,astar,raw (collinear removed),17,765.0,59.254833995939045
+rand_40_s09,random 40x40,astar,Huang et al. [27],13,433.14160123226173,58.20155049652121
+rand_40_s09,random 40x40,astar,proposed (Sec. 3.3),13,433.14160123226173,58.20155049652121
+rand_40_s09,random 40x40,bastar,raw (collinear removed),8,360.0,56.32590180780451
+rand_40_s09,random 40x40,bastar,Huang et al. [27],7,276.3401917459099,56.07217179574498
+rand_40_s09,random 40x40,bastar,proposed (Sec. 3.3),7,116.64872490631046,55.54909265980844
+rand_40_s09,random 40x40,vns_bastar,raw (collinear removed),18,793.739795291688,58.5553970756848
+rand_40_s09,random 40x40,vns_bastar,Huang et al. [27],12,493.2100893917539,57.671150361589476
+rand_40_s09,random 40x40,vns_bastar,proposed (Sec. 3.3),12,388.9600566939504,56.797992972434386
+rand_40_s10,random 40x40,astar,raw (collinear removed),23,1035.0,59.84062043356595
+rand_40_s10,random 40x40,astar,Huang et al. [27],18,585.0,58.618739036365874
+rand_40_s10,random 40x40,astar,proposed (Sec. 3.3),18,585.0,58.618739036365874
+rand_40_s10,random 40x40,bastar,raw (collinear removed),13,585.0,57.49747468305833
+rand_40_s10,random 40x40,bastar,Huang et al. [27],11,466.92751306414704,57.20636674630289
+rand_40_s10,random 40x40,bastar,proposed (Sec. 3.3),11,294.46642233458584,56.53966421742828
+rand_40_s10,random 40x40,vns_bastar,raw (collinear removed),16,658.739795291688,58.55539707568481
+rand_40_s10,random 40x40,vns_bastar,Huang et al. [27],16,658.739795291688,58.55539707568481
+rand_40_s10,random 40x40,vns_bastar,proposed (Sec. 3.3),16,581.4201787835078,58.301667063625274
+rand_40_s11,random 40x40,astar,raw (collinear removed),17,765.0,59.25483399593904
+rand_40_s11,random 40x40,astar,Huang et al. [27],17,765.0,59.25483399593904
+rand_40_s11,random 40x40,astar,proposed (Sec. 3.3),17,728.130102354156,58.898542826192426
+rand_40_s11,random 40x40,bastar,raw (collinear removed),17,765.0,58.66904755831214
+rand_40_s11,random 40x40,bastar,Huang et al. [27],14,593.130102354156,58.18376618407357
+rand_40_s11,random 40x40,bastar,proposed (Sec. 3.3),14,430.1323867120696,57.10344984395298
+rand_40_s11,random 40x40,vns_bastar,raw (collinear removed),11,630.0,61.90511553581192
+rand_40_s11,random 40x40,vns_bastar,Huang et al. [27],9,408.1798301198642,59.86700469000112
+rand_40_s11,random 40x40,vns_bastar,proposed (Sec. 3.3),9,337.1044745359155,59.50261741272017
+rand_40_s12,random 40x40,astar,raw (collinear removed),17,765.0,59.84062043356594
+rand_40_s12,random 40x40,astar,Huang et al. [27],14,535.6012946450045,59.07470074532359
+rand_40_s12,random 40x40,astar,proposed (Sec. 3.3),14,535.6012946450045,59.07470074532359
+rand_40_s12,random 40x40,bastar,raw (collinear removed),12,540.0,57.49747468305832
+rand_40_s12,random 40x40,bastar,Huang et al. [27],9,358.492564241225,56.95443084409818
+rand_40_s12,random 40x40,bastar,proposed (Sec. 3.3),9,143.3794693711194,56.24611799938904
+rand_40_s12,random 40x40,vns_bastar,raw (collinear removed),18,846.869897645844,59.31932909818502
+rand_40_s12,random 40x40,vns_bastar,Huang et al. [27],12,427.3801350519596,57.87951080519121
+rand_40_s12,random 40x40,vns_bastar,proposed (Sec. 3.3),12,291.8781823663843,57.43201609644089
+rand_40_s13,random 40x40,astar,raw (collinear removed),16,765.0,60.08326112068523
+rand_40_s13,random 40x40,astar,Huang et al. [27],12,428.6293777306568,58.862349859000915
+rand_40_s13,random 40x40,astar,proposed (Sec. 3.3),12,428.6293777306568,58.862349859000915
+rand_40_s13,random 40x40,bastar,raw (collinear removed),10,450.0,57.49747468305833
+rand_40_s13,random 40x40,bastar,Huang et al. [27],9,365.19442890773485,57.23665654709951
+rand_40_s13,random 40x40,bastar,proposed (Sec. 3.3),9,328.3245312618908,56.98472064489479
+rand_40_s13,random 40x40,vns_bastar,raw (collinear removed),12,576.869897645844,58.73354266055812
+rand_40_s13,random 40x40,vns_bastar,Huang et al. [27],10,402.06432655357884,58.249848675317104
+rand_40_s13,random 40x40,vns_bastar,proposed (Sec. 3.3),10,268.4615075808752,56.978159232959214
+rand_40_s14,random 40x40,astar,raw (collinear removed),14,630.0,58.08326112068522
+rand_40_s14,random 40x40,astar,Huang et al. [27],12,456.65480848345317,57.55523309434155
+rand_40_s14,random 40x40,astar,proposed (Sec. 3.3),12,456.65480848345317,57.55523309434155
+rand_40_s14,random 40x40,bastar,raw (collinear removed),14,630.0,58.08326112068522
+rand_40_s14,random 40x40,bastar,Huang et al. [27],12,456.65480848345317,57.55523309434155
+rand_40_s14,random 40x40,bastar,proposed (Sec. 3.3),12,456.65480848345317,57.55523309434155
+rand_40_s14,random 40x40,vns_bastar,raw (collinear removed),15,720.0,59.66247484869264
+rand_40_s14,random 40x40,vns_bastar,Huang et al. [27],11,386.49483440825725,57.90946816978942
+rand_40_s14,random 40x40,vns_bastar,proposed (Sec. 3.3),11,298.9405882001318,57.31259240722227
+rand_40_s15,random 40x40,astar,raw (collinear removed),15,675.0,58.08326112068523
+rand_40_s15,random 40x40,astar,Huang et al. [27],11,370.304846468766,57.14792670067428
+rand_40_s15,random 40x40,astar,proposed (Sec. 3.3),11,370.304846468766,57.14792670067428
+rand_40_s15,random 40x40,bastar,raw (collinear removed),15,675.0,58.08326112068523
+rand_40_s15,random 40x40,bastar,Huang et al. [27],11,370.304846468766,57.14792670067428
+rand_40_s15,random 40x40,bastar,proposed (Sec. 3.3),11,370.304846468766,57.14792670067428
+rand_40_s15,random 40x40,vns_bastar,raw (collinear removed),12,486.869897645844,56.733542660558115
+rand_40_s15,random 40x40,vns_bastar,Huang et al. [27],11,415.304846468766,56.55539707568481
+rand_40_s15,random 40x40,vns_bastar,proposed (Sec. 3.3),11,347.9247114168065,56.3325212264026
+rand_40_s16,random 40x40,astar,raw (collinear removed),21,945.0,59.84062043356594
+rand_40_s16,random 40x40,astar,Huang et al. [27],14,419.25003269780353,58.54996479902704
+rand_40_s16,random 40x40,astar,proposed (Sec. 3.3),14,419.25003269780353,58.54996479902704
+rand_40_s16,random 40x40,bastar,raw (collinear removed),15,675.0,58.66904755831214
+rand_40_s16,random 40x40,bastar,Huang et al. [27],13,562.3801350519595,58.35385350953183
+rand_40_s16,random 40x40,bastar,proposed (Sec. 3.3),13,332.1672429602279,57.45368713839262
+rand_40_s16,random 40x40,vns_bastar,raw (collinear removed),16,818.130102354156,61.31932909818502
+rand_40_s16,random 40x40,vns_bastar,Huang et al. [27],13,607.6198649480405,60.35385350953183
+rand_40_s16,random 40x40,vns_bastar,proposed (Sec. 3.3),13,472.8595948441213,59.90810181096742
+rand_40_s17,random 40x40,astar,raw (collinear removed),20,945.0,60.08326112068523
+rand_40_s17,random 40x40,astar,Huang et al. [27],16,609.7946090626505,59.216723150128246
+rand_40_s17,random 40x40,astar,proposed (Sec. 3.3),16,609.7946090626505,59.216723150128246
+rand_40_s17,random 40x40,bastar,raw (collinear removed),22,1080.0,59.49747468305833
+rand_40_s17,random 40x40,bastar,Huang et al. [27],18,791.565051177078,58.81366318392078
+rand_40_s17,random 40x40,bastar,proposed (Sec. 3.3),18,658.8238066383916,58.374699463088646
+rand_40_s17,random 40x40,vns_bastar,raw (collinear removed),23,1116.869897645844,61.72696995093862
+rand_40_s17,random 40x40,vns_bastar,Huang et al. [27],16,652.6198649480405,59.407863150000594
+rand_40_s17,random 40x40,vns_bastar,proposed (Sec. 3.3),15,607.3801350519595,58.954227864871484
+rand_40_s18,random 40x40,astar,raw (collinear removed),17,765.0,58.66904755831214
+rand_40_s18,random 40x40,astar,Huang et al. [27],15,585.0,58.23896607123412
+rand_40_s18,random 40x40,astar,proposed (Sec. 3.3),15,585.0,58.23896607123412
+rand_40_s18,random 40x40,bastar,raw (collinear removed),17,765.0,58.66904755831214
+rand_40_s18,random 40x40,bastar,Huang et al. [27],15,585.0,58.23896607123412
+rand_40_s18,random 40x40,bastar,proposed (Sec. 3.3),15,585.0,58.23896607123412
+rand_40_s18,random 40x40,vns_bastar,raw (collinear removed),22,1035.0,65.31932909818502
+rand_40_s18,random 40x40,vns_bastar,Huang et al. [27],16,808.210089391754,64.16338164404789
+rand_40_s18,random 40x40,vns_bastar,proposed (Sec. 3.3),16,693.1524739734509,63.21725609715399
+rand_40_s19,random 40x40,astar,raw (collinear removed),13,585.0,57.49747468305832
+rand_40_s19,random 40x40,astar,Huang et al. [27],12,495.0,57.31932909818501
+rand_40_s19,random 40x40,astar,proposed (Sec. 3.3),12,495.0,57.31932909818501
+rand_40_s19,random 40x40,bastar,raw (collinear removed),8,360.0,56.32590180780451
+rand_40_s19,random 40x40,bastar,Huang et al. [27],8,360.0,56.32590180780451
+rand_40_s19,random 40x40,bastar,proposed (Sec. 3.3),8,292.61986494804046,56.10302595852231
+rand_40_s19,random 40x40,vns_bastar,raw (collinear removed),8,306.869897645844,56.55539707568481
+rand_40_s19,random 40x40,vns_bastar,Huang et al. [27],7,270.0,56.4816067583534
+rand_40_s19,random 40x40,vns_bastar,proposed (Sec. 3.3),7,233.13010235415598,56.22967085614869
+rand_40_s20,random 40x40,astar,raw (collinear removed),19,855.0,61.01219330881976
+rand_40_s20,random 40x40,astar,Huang et al. [27],18,765.0,60.76955262170047
+rand_40_s20,random 40x40,astar,proposed (Sec. 3.3),18,753.6900675259798,60.32380092313607
+rand_40_s20,random 40x40,bastar,raw (collinear removed),12,540.0,59.254833995939045
+rand_40_s20,random 40x40,bastar,Huang et al. [27],11,476.565051177078,58.89854282619243
+rand_40_s20,random 40x40,bastar,proposed (Sec. 3.3),11,257.41015468514536,57.67889119758673
+rand_40_s20,random 40x40,vns_bastar,raw (collinear removed),20,1026.869897645844,64.31275638856552
+rand_40_s20,random 40x40,vns_bastar,Huang et al. [27],14,684.0556037900689,62.373880324460295
+rand_40_s20,random 40x40,vns_bastar,proposed (Sec. 3.3),15,655.9831168542158,61.91896616506538
+rand_40_s21,random 40x40,astar,raw (collinear removed),6,270.0,56.32590180780452
+rand_40_s21,random 40x40,astar,Huang et al. [27],6,270.0,56.32590180780452
+rand_40_s21,random 40x40,astar,proposed (Sec. 3.3),6,270.0,56.32590180780452
+rand_40_s21,random 40x40,bastar,raw (collinear removed),6,270.0,56.32590180780451
+rand_40_s21,random 40x40,bastar,Huang et al. [27],6,270.0,56.32590180780451
+rand_40_s21,random 40x40,bastar,proposed (Sec. 3.3),6,202.61986494804043,56.103025958522316
+rand_40_s21,random 40x40,vns_bastar,raw (collinear removed),13,433.73979529168804,56.96303792843841
+rand_40_s21,random 40x40,vns_bastar,Huang et al. [27],8,298.07248693585296,56.61704334596149
+rand_40_s21,random 40x40,vns_bastar,proposed (Sec. 3.3),8,298.07248693585296,56.61704334596149
+rand_40_s22,random 40x40,astar,raw (collinear removed),9,405.0,56.91168824543142
+rand_40_s22,random 40x40,astar,Huang et al. [27],7,225.0,56.39040321934969
+rand_40_s22,random 40x40,astar,proposed (Sec. 3.3),7,225.0,56.39040321934969
+rand_40_s22,random 40x40,bastar,raw (collinear removed),9,405.0,56.91168824543142
+rand_40_s22,random 40x40,bastar,Huang et al. [27],7,225.0,56.39040321934969
+rand_40_s22,random 40x40,bastar,proposed (Sec. 3.3),7,225.0,56.39040321934969
+rand_40_s22,random 40x40,vns_bastar,raw (collinear removed),11,638.130102354156,59.561969785304306
+rand_40_s22,random 40x40,vns_bastar,Huang et al. [27],7,351.869897645844,57.28590290889186
+rand_40_s22,random 40x40,vns_bastar,proposed (Sec. 3.3),6,128.86702899774824,55.85311132346128
+rand_40_s23,random 40x40,astar,raw (collinear removed),20,900.0,59.840620433565945
+rand_40_s23,random 40x40,astar,Huang et al. [27],18,720.0,59.410538946487925
+rand_40_s23,random 40x40,astar,proposed (Sec. 3.3),18,720.0,59.410538946487925
+rand_40_s23,random 40x40,bastar,raw (collinear removed),17,765.0,58.083261120685236
+rand_40_s23,random 40x40,bastar,Huang et al. [27],15,638.130102354156,57.83132521848052
+rand_40_s23,random 40x40,bastar,proposed (Sec. 3.3),15,336.2852482363703,56.551726312616495
+rand_40_s23,random 40x40,vns_bastar,raw (collinear removed),20,838.739795291688,60.898542826192426
+rand_40_s23,random 40x40,vns_bastar,Huang et al. [27],16,621.869897645844,59.5685444135327
+rand_40_s23,random 40x40,vns_bastar,proposed (Sec. 3.3),16,450.6673083558351,58.27086376715777
+rand_40_s24,random 40x40,astar,raw (collinear removed),9,405.0,57.49747468305832
+rand_40_s24,random 40x40,astar,Huang et al. [27],9,405.0,57.49747468305832
+rand_40_s24,random 40x40,astar,proposed (Sec. 3.3),9,405.0,57.49747468305832
+rand_40_s24,random 40x40,bastar,raw (collinear removed),11,495.0,58.08326112068523
+rand_40_s24,random 40x40,bastar,Huang et al. [27],8,233.13010235415598,57.352007667338064
+rand_40_s24,random 40x40,bastar,proposed (Sec. 3.3),8,103.15754274001479,56.61953520110768
+rand_40_s24,random 40x40,vns_bastar,raw (collinear removed),14,630.0,58.08326112068523
+rand_40_s24,random 40x40,vns_bastar,Huang et al. [27],10,351.3675478923233,56.970345477781706
+rand_40_s24,random 40x40,vns_bastar,proposed (Sec. 3.3),9,298.23744553816726,56.79219989290839
+rand_40_s25,random 40x40,astar,raw (collinear removed),15,675.0,57.49747468305833
+rand_40_s25,random 40x40,astar,Huang et al. [27],13,495.0,57.03195814665684
+rand_40_s25,random 40x40,astar,proposed (Sec. 3.3),13,495.0,57.03195814665684
+rand_40_s25,random 40x40,bastar,raw (collinear removed),15,675.0,57.49747468305833
+rand_40_s25,random 40x40,bastar,Huang et al. [27],13,495.0,57.03195814665684
+rand_40_s25,random 40x40,bastar,proposed (Sec. 3.3),13,495.0,57.03195814665684
+rand_40_s25,random 40x40,vns_bastar,raw (collinear removed),15,675.0,58.66904755831214
+rand_40_s25,random 40x40,vns_bastar,Huang et al. [27],10,405.0,57.671572328411244
+rand_40_s25,random 40x40,vns_bastar,proposed (Sec. 3.3),10,288.51896016962564,56.747129497973724
+rand_40_s26,random 40x40,astar,raw (collinear removed),13,585.0,59.49747468305832
+rand_40_s26,random 40x40,astar,Huang et al. [27],12,495.0,59.319329098185015
+rand_40_s26,random 40x40,astar,proposed (Sec. 3.3),12,495.0,59.319329098185015
+rand_40_s26,random 40x40,bastar,raw (collinear removed),13,585.0,59.49747468305832
+rand_40_s26,random 40x40,bastar,Huang et al. [27],12,495.0,59.319329098185015
+rand_40_s26,random 40x40,bastar,proposed (Sec. 3.3),12,495.0,59.319329098185015
+rand_40_s26,random 40x40,vns_bastar,raw (collinear removed),15,801.869897645844,59.5619697853043
+rand_40_s26,random 40x40,vns_bastar,Huang et al. [27],9,310.0375207875679,56.802761614760435
+rand_40_s26,random 40x40,vns_bastar,proposed (Sec. 3.3),9,236.49947098994858,56.43079166768993
+rand_40_s27,random 40x40,astar,raw (collinear removed),15,675.0,58.66904755831214
+rand_40_s27,random 40x40,astar,Huang et al. [27],13,507.2310071325708,58.18535357307112
+rand_40_s27,random 40x40,astar,proposed (Sec. 3.3),13,507.2310071325708,58.18535357307112
+rand_40_s27,random 40x40,bastar,raw (collinear removed),16,720.0,57.49747468305833
+rand_40_s27,random 40x40,bastar,Huang et al. [27],15,630.0,57.27459883377612
+rand_40_s27,random 40x40,bastar,proposed (Sec. 3.3),15,470.60969293753203,56.74016207915621
+rand_40_s27,random 40x40,vns_bastar,raw (collinear removed),19,846.869897645844,59.726969950938624
+rand_40_s27,random 40x40,vns_bastar,Huang et al. [27],16,576.869897645844,58.65590213907315
+rand_40_s27,random 40x40,vns_bastar,proposed (Sec. 3.3),16,470.60969293753203,58.29961096932654
+rand_40_s28,random 40x40,astar,raw (collinear removed),17,765.0,58.66904755831214
+rand_40_s28,random 40x40,astar,Huang et al. [27],13,414.9394814562206,57.65869307309569
+rand_40_s28,random 40x40,astar,proposed (Sec. 3.3),13,414.9394814562206,57.65869307309569
+rand_40_s28,random 40x40,bastar,raw (collinear removed),11,495.0,58.66904755831214
+rand_40_s28,random 40x40,bastar,Huang et al. [27],10,405.0,58.44617170902993
+rand_40_s28,random 40x40,bastar,proposed (Sec. 3.3),10,231.8090365989775,57.58847781050397
+rand_40_s28,random 40x40,vns_bastar,raw (collinear removed),20,945.0,60.49090197343883
+rand_40_s28,random 40x40,vns_bastar,Huang et al. [27],14,541.8093791020646,58.858348657959965
+rand_40_s28,random 40x40,vns_bastar,proposed (Sec. 3.3),14,333.2703767188204,57.8610711634259
+rand_40_s29,random 40x40,astar,raw (collinear removed),11,495.0,56.91168824543143
+rand_40_s29,random 40x40,astar,Huang et al. [27],10,416.30993247402023,56.688812396149224
+rand_40_s29,random 40x40,astar,proposed (Sec. 3.3),10,416.30993247402023,56.688812396149224
+rand_40_s29,random 40x40,bastar,raw (collinear removed),11,495.0,56.91168824543143
+rand_40_s29,random 40x40,bastar,Huang et al. [27],10,416.30993247402023,56.68881239614922
+rand_40_s29,random 40x40,bastar,proposed (Sec. 3.3),10,342.5701371823322,56.44617170902993
+rand_40_s29,random 40x40,vns_bastar,raw (collinear removed),13,531.869897645844,57.31932909818502
+rand_40_s29,random 40x40,vns_bastar,Huang et al. [27],11,416.30993247402023,57.00248491358366
+rand_40_s29,random 40x40,vns_bastar,proposed (Sec. 3.3),11,283.56868793533386,56.385375607878224
+rand_60_s00,random 60x60,astar,raw (collinear removed),12,540.0,86.95331880577405
+rand_60_s00,random 60x60,astar,Huang et al. [27],11,450.0,86.77517322090074
+rand_60_s00,random 60x60,astar,proposed (Sec. 3.3),11,450.0,86.77517322090074
+rand_60_s00,random 60x60,bastar,raw (collinear removed),12,540.0,86.95331880577405
+rand_60_s00,random 60x60,bastar,Huang et al. [27],11,450.0,86.77517322090074
+rand_60_s00,random 60x60,bastar,proposed (Sec. 3.3),11,450.0,86.77517322090074
+rand_60_s00,random 60x60,vns_bastar,raw (collinear removed),30,1530.0,92.36753236814714
+rand_60_s00,random 60x60,vns_bastar,Huang et al. [27],26,1260.0,91.28716934119623
+rand_60_s00,random 60x60,vns_bastar,proposed (Sec. 3.3),26,814.7900110337447,88.89909753167005
+rand_60_s01,random 60x60,astar,raw (collinear removed),16,720.0,86.36753236814712
+rand_60_s01,random 60x60,astar,Huang et al. [27],16,720.0,86.36753236814712
+rand_60_s01,random 60x60,astar,proposed (Sec. 3.3),16,720.0,86.36753236814712
+rand_60_s01,random 60x60,bastar,raw (collinear removed),21,945.0,86.95331880577405
+rand_60_s01,random 60x60,bastar,Huang et al. [27],18,728.130102354156,86.52323731869603
+rand_60_s01,random 60x60,bastar,proposed (Sec. 3.3),18,666.202589290009,86.06681826201313
+rand_60_s01,random 60x60,vns_bastar,raw (collinear removed),30,1305.0,89.94674609615454
+rand_60_s01,random 60x60,vns_bastar,Huang et al. [27],19,684.5272833814523,88.20024490230975
+rand_60_s01,random 60x60,vns_bastar,proposed (Sec. 3.3),19,633.682179873385,87.60617182472463
+rand_60_s02,random 60x60,astar,raw (collinear removed),22,1080.0,88.95331880577405
+rand_60_s02,random 60x60,astar,Huang et al. [27],19,810.0,88.32942152233633
+rand_60_s02,random 60x60,astar,proposed (Sec. 3.3),19,810.0,88.32942152233633
+rand_60_s02,random 60x60,bastar,raw (collinear removed),22,1080.0,88.95331880577405
+rand_60_s02,random 60x60,bastar,Huang et al. [27],19,810.0,88.32942152233633
+rand_60_s02,random 60x60,bastar,proposed (Sec. 3.3),19,810.0,88.32942152233633
+rand_60_s02,random 60x60,vns_bastar,raw (collinear removed),39,1755.0,93.52595982416196
+rand_60_s02,random 60x60,vns_bastar,Huang et al. [27],28,1173.9451862290375,90.72123872625585
+rand_60_s02,random 60x60,vns_bastar,proposed (Sec. 3.3),28,1097.767640467087,90.28992028350746
+rand_60_s03,random 60x60,astar,raw (collinear removed),15,675.0,87.53910524340094
+rand_60_s03,random 60x60,astar,Huang et al. [27],14,585.0,87.29646455628165
+rand_60_s03,random 60x60,astar,proposed (Sec. 3.3),14,585.0,87.29646455628165
+rand_60_s03,random 60x60,bastar,raw (collinear removed),15,675.0,87.53910524340094
+rand_60_s03,random 60x60,bastar,Huang et al. [27],14,585.0,87.29646455628165
+rand_60_s03,random 60x60,bastar,proposed (Sec. 3.3),14,585.0,87.29646455628165
+rand_60_s03,random 60x60,vns_bastar,raw (collinear removed),20,973.739795291688,90.01124119840051
+rand_60_s03,random 60x60,vns_bastar,Huang et al. [27],17,783.434948822922,89.26596566254219
+rand_60_s03,random 60x60,vns_bastar,proposed (Sec. 3.3),17,612.232359532913,87.89449469883584
+rand_60_s04,random 60x60,astar,raw (collinear removed),25,1125.0,88.12489168102785
+rand_60_s04,random 60x60,astar,Huang et al. [27],22,873.434948822922,87.38767440458457
+rand_60_s04,random 60x60,astar,proposed (Sec. 3.3),22,873.434948822922,87.38767440458457
+rand_60_s04,random 60x60,bastar,raw (collinear removed),14,630.0,86.36753236814712
+rand_60_s04,random 60x60,bastar,Huang et al. [27],11,450.0,85.92178066958273
+rand_60_s04,random 60x60,bastar,proposed (Sec. 3.3),11,241.49993460439285,85.20253412112172
+rand_60_s04,random 60x60,vns_bastar,raw (collinear removed),15,666.869897645844,87.36095965852763
+rand_60_s04,random 60x60,vns_bastar,Huang et al. [27],13,503.130102354156,86.53253253378145
+rand_60_s04,random 60x60,vns_bastar,proposed (Sec. 3.3),13,503.130102354156,86.53253253378145
+rand_60_s05,random 60x60,astar,raw (collinear removed),24,1080.0,88.71067811865477
+rand_60_s05,random 60x60,astar,Huang et al. [27],21,911.3099324740202,88.26492642009036
+rand_60_s05,random 60x60,astar,proposed (Sec. 3.3),21,911.3099324740202,88.26492642009036
+rand_60_s05,random 60x60,bastar,raw (collinear removed),24,1080.0,88.71067811865477
+rand_60_s05,random 60x60,bastar,Huang et al. [27],21,911.3099324740202,88.26492642009036
+rand_60_s05,random 60x60,bastar,proposed (Sec. 3.3),21,911.3099324740202,88.26492642009036
+rand_60_s05,random 60x60,vns_bastar,raw (collinear removed),32,1566.869897645844,93.59045492640793
+rand_60_s05,random 60x60,vns_bastar,Huang et al. [27],24,1181.3099324740201,91.35292155765582
+rand_60_s05,random 60x60,vns_bastar,proposed (Sec. 3.3),24,1107.5701371823322,91.0937420411208
+rand_60_s06,random 60x60,astar,raw (collinear removed),12,540.0,85.78174593052023
+rand_60_s06,random 60x60,astar,Huang et al. [27],12,540.0,85.78174593052023
+rand_60_s06,random 60x60,astar,proposed (Sec. 3.3),12,540.0,85.78174593052023
+rand_60_s06,random 60x60,bastar,raw (collinear removed),12,540.0,85.78174593052023
+rand_60_s06,random 60x60,bastar,Huang et al. [27],12,540.0,85.78174593052023
+rand_60_s06,random 60x60,bastar,proposed (Sec. 3.3),12,472.61986494804046,85.55887008123803
+rand_60_s06,random 60x60,vns_bastar,raw (collinear removed),21,990.0,91.11831897140836
+rand_60_s06,random 60x60,vns_bastar,Huang et al. [27],17,773.130102354156,89.66302426540679
+rand_60_s06,random 60x60,vns_bastar,proposed (Sec. 3.3),17,713.6403397602716,88.84395841221705
+rand_60_s07,random 60x60,astar,raw (collinear removed),13,585.0,86.95331880577403
+rand_60_s07,random 60x60,astar,Huang et al. [27],12,503.130102354156,86.71067811865476
+rand_60_s07,random 60x60,astar,proposed (Sec. 3.3),12,503.130102354156,86.71067811865476
+rand_60_s07,random 60x60,bastar,raw (collinear removed),13,585.0,86.95331880577403
+rand_60_s07,random 60x60,bastar,Huang et al. [27],12,503.130102354156,86.71067811865476
+rand_60_s07,random 60x60,bastar,proposed (Sec. 3.3),12,503.130102354156,86.71067811865476
+rand_60_s07,random 60x60,vns_bastar,raw (collinear removed),24,1071.869897645844,88.77517322090074
+rand_60_s07,random 60x60,vns_bastar,Huang et al. [27],17,638.797410709991,87.54373699625688
+rand_60_s07,random 60x60,vns_bastar,proposed (Sec. 3.3),17,525.5395147214969,86.94402824114393
+rand_60_s08,random 60x60,astar,raw (collinear removed),22,990.0,87.53910524340094
+rand_60_s08,random 60x60,astar,Huang et al. [27],19,746.565051177078,86.95993822437212
+rand_60_s08,random 60x60,astar,proposed (Sec. 3.3),19,746.565051177078,86.95993822437212
+rand_60_s08,random 60x60,bastar,raw (collinear removed),23,1035.0,87.53910524340094
+rand_60_s08,random 60x60,bastar,Huang et al. [27],18,689.0362434679265,86.67051413073064
+rand_60_s08,random 60x60,bastar,proposed (Sec. 3.3),18,635.9061411137704,86.13607737611072
+rand_60_s08,random 60x60,vns_bastar,raw (collinear removed),30,1288.739795291688,89.59045492640793
+rand_60_s08,random 60x60,vns_bastar,Huang et al. [27],23,806.4823922307166,88.24536821913676
+rand_60_s08,random 60x60,vns_bastar,proposed (Sec. 3.3),22,624.044641760454,87.34770992187902
+rand_60_s09,random 60x60,astar,raw (collinear removed),15,675.0,85.78174593052023
+rand_60_s09,random 60x60,astar,Huang et al. [27],14,585.0,85.60360034564692
+rand_60_s09,random 60x60,astar,proposed (Sec. 3.3),14,585.0,85.60360034564692
+rand_60_s09,random 60x60,bastar,raw (collinear removed),20,900.0,86.36753236814714
+rand_60_s09,random 60x60,bastar,Huang et al. [27],16,558.434948822922,85.49669305038218
+rand_60_s09,random 60x60,bastar,proposed (Sec. 3.3),16,481.11533231474186,85.24296303832263
+rand_60_s09,random 60x60,vns_bastar,raw (collinear removed),22,830.609692937532,86.41888205115413
+rand_60_s09,random 60x60,vns_bastar,Huang et al. [27],16,421.645038214676,85.40796320395695
+rand_60_s09,random 60x60,vns_bastar,proposed (Sec. 3.3),16,323.71572876896374,85.08973808965143
+rand_60_s10,random 60x60,astar,raw (collinear removed),25,1125.0,89.29646455628166
+rand_60_s10,random 60x60,astar,Huang et al. [27],22,873.3581759428895,88.53212566292997
+rand_60_s10,random 60x60,astar,proposed (Sec. 3.3),22,873.3581759428895,88.53212566292997
+rand_60_s10,random 60x60,bastar,raw (collinear removed),19,855.0,87.53910524340094
+rand_60_s10,random 60x60,bastar,Huang et al. [27],18,765.0,87.2648072291168
+rand_60_s10,random 60x60,bastar,proposed (Sec. 3.3),18,338.9762795592054,85.86062488071505
+rand_60_s10,random 60x60,vns_bastar,raw (collinear removed),21,793.739795291688,89.59045492640793
+rand_60_s10,random 60x60,vns_bastar,Huang et al. [27],17,619.1164279656263,88.35782563715205
+rand_60_s10,random 60x60,vns_bastar,proposed (Sec. 3.3),17,551.1062746543171,88.10280804700693
+rand_60_s11,random 60x60,astar,raw (collinear removed),17,765.0,87.53910524340094
+rand_60_s11,random 60x60,astar,Huang et al. [27],16,684.4623222080256,87.20765421132607
+rand_60_s11,random 60x60,astar,proposed (Sec. 3.3),16,684.4623222080256,87.20765421132607
+rand_60_s11,random 60x60,bastar,raw (collinear removed),17,765.0,87.53910524340094
+rand_60_s11,random 60x60,bastar,Huang et al. [27],16,684.4623222080256,87.20765421132607
+rand_60_s11,random 60x60,bastar,proposed (Sec. 3.3),16,684.4623222080256,87.20765421132607
+rand_60_s11,random 60x60,vns_bastar,raw (collinear removed),31,1566.869897645844,91.60360034564692
+rand_60_s11,random 60x60,vns_bastar,Huang et al. [27],26,1090.304846468766,89.85051514449871
+rand_60_s11,random 60x60,vns_bastar,proposed (Sec. 3.3),25,837.472089428994,88.4776556641755
+rand_60_s12,random 60x60,astar,raw (collinear removed),23,1035.0,88.12489168102786
+rand_60_s12,random 60x60,astar,Huang et al. [27],18,638.9343954509663,87.02153086556807
+rand_60_s12,random 60x60,astar,proposed (Sec. 3.3),18,638.9343954509663,87.02153086556807
+rand_60_s12,random 60x60,bastar,raw (collinear removed),23,1035.0,88.12489168102786
+rand_60_s12,random 60x60,bastar,Huang et al. [27],18,638.9343954509663,87.02153086556807
+rand_60_s12,random 60x60,bastar,proposed (Sec. 3.3),18,638.9343954509663,87.02153086556807
+rand_60_s12,random 60x60,vns_bastar,raw (collinear removed),22,990.0,86.95331880577405
+rand_60_s12,random 60x60,vns_bastar,Huang et al. [27],20,828.434948822922,86.59702763602743
+rand_60_s12,random 60x60,vns_bastar,proposed (Sec. 3.3),20,634.1849161251184,85.95336551475265
+rand_60_s13,random 60x60,astar,raw (collinear removed),17,765.0,86.36753236814712
+rand_60_s13,random 60x60,astar,Huang et al. [27],16,686.3099324740202,86.14465651886493
+rand_60_s13,random 60x60,astar,proposed (Sec. 3.3),16,686.3099324740202,86.14465651886493
+rand_60_s13,random 60x60,bastar,raw (collinear removed),24,1080.0,87.53910524340094
+rand_60_s13,random 60x60,bastar,Huang et al. [27],18,621.3675478923233,86.29719939600545
+rand_60_s13,random 60x60,bastar,proposed (Sec. 3.3),18,266.15755892606796,84.98949061343019
+rand_60_s13,random 60x60,vns_bastar,raw (collinear removed),21,1026.869897645844,87.60360034564692
+rand_60_s13,random 60x60,vns_bastar,Huang et al. [27],16,686.3099324740202,86.55229737161852
+rand_60_s13,random 60x60,vns_bastar,proposed (Sec. 3.3),16,662.120418319996,86.47671294443231
+rand_60_s14,random 60x60,astar,raw (collinear removed),19,855.0,87.53910524340094
+rand_60_s14,random 60x60,astar,Huang et al. [27],17,693.434948822922,87.18281407365434
+rand_60_s14,random 60x60,astar,proposed (Sec. 3.3),17,693.434948822922,87.18281407365434
+rand_60_s14,random 60x60,bastar,raw (collinear removed),19,855.0,87.53910524340094
+rand_60_s14,random 60x60,bastar,Huang et al. [27],17,693.434948822922,87.18281407365434
+rand_60_s14,random 60x60,bastar,proposed (Sec. 3.3),17,693.434948822922,87.18281407365434
+rand_60_s14,random 60x60,vns_bastar,raw (collinear removed),23,973.739795291688,90.94017338653504
+rand_60_s14,random 60x60,vns_bastar,Huang et al. [27],19,749.7448812969423,90.46536163504813
+rand_60_s14,random 60x60,vns_bastar,proposed (Sec. 3.3),19,545.2522155775814,89.43389858574743
+rand_60_s15,random 60x60,astar,raw (collinear removed),25,1125.0,89.29646455628165
+rand_60_s15,random 60x60,astar,Huang et al. [27],22,891.869897645844,88.64350721992145
+rand_60_s15,random 60x60,astar,proposed (Sec. 3.3),22,875.609692937532,88.40086653280216
+rand_60_s15,random 60x60,bastar,raw (collinear removed),21,945.0,86.95331880577403
+rand_60_s15,random 60x60,bastar,Huang et al. [27],13,499.3987053549955,85.8851334272794
+rand_60_s15,random 60x60,bastar,proposed (Sec. 3.3),13,377.4298628176678,85.2253536930944
+rand_60_s15,random 60x60,vns_bastar,raw (collinear removed),28,1206.869897645844,88.53253253378143
+rand_60_s15,random 60x60,vns_bastar,Huang et al. [27],24,932.9869248640152,87.63140341521986
+rand_60_s15,random 60x60,vns_bastar,proposed (Sec. 3.3),24,853.3757826794849,87.37058527926105
+rand_60_s16,random 60x60,astar,raw (collinear removed),27,1215.0,88.12489168102785
+rand_60_s16,random 60x60,astar,Huang et al. [27],25,1035.0,87.69481019394983
+rand_60_s16,random 60x60,astar,proposed (Sec. 3.3),25,1035.0,87.69481019394983
+rand_60_s16,random 60x60,bastar,raw (collinear removed),22,990.0,87.53910524340094
+rand_60_s16,random 60x60,bastar,Huang et al. [27],18,754.6951535312339,87.03523343899151
+rand_60_s16,random 60x60,bastar,proposed (Sec. 3.3),18,418.28547840044615,85.66610554342844
+rand_60_s16,random 60x60,vns_bastar,raw (collinear removed),24,981.869897645844,90.11174626178885
+rand_60_s16,random 60x60,vns_bastar,Huang et al. [27],21,893.8800696563524,89.62150502813692
+rand_60_s16,random 60x60,vns_bastar,proposed (Sec. 3.3),21,883.072486935853,89.36457817475817
+rand_60_s17,random 60x60,astar,raw (collinear removed),13,585.0,85.78174593052022
+rand_60_s17,random 60x60,astar,Huang et al. [27],12,495.0,85.60360034564691
+rand_60_s17,random 60x60,astar,proposed (Sec. 3.3),12,495.0,85.60360034564691
+rand_60_s17,random 60x60,bastar,raw (collinear removed),13,585.0,85.78174593052023
+rand_60_s17,random 60x60,bastar,Huang et al. [27],12,495.0,85.51600901357455
+rand_60_s17,random 60x60,bastar,proposed (Sec. 3.3),12,350.3002484398603,85.03940315223281
+rand_60_s17,random 60x60,vns_bastar,raw (collinear removed),14,585.0,86.77517322090073
+rand_60_s17,random 60x60,vns_bastar,Huang et al. [27],14,585.0,86.77517322090073
+rand_60_s17,random 60x60,vns_bastar,proposed (Sec. 3.3),14,585.0,86.6925006698152
+rand_60_s18,random 60x60,astar,raw (collinear removed),23,1035.0,89.88225099390857
+rand_60_s18,random 60x60,astar,Huang et al. [27],19,686.3099324740202,88.37961799196526
+rand_60_s18,random 60x60,astar,proposed (Sec. 3.3),19,686.3099324740202,88.37961799196526
+rand_60_s18,random 60x60,bastar,raw (collinear removed),22,990.0,89.88225099390856
+rand_60_s18,random 60x60,bastar,Huang et al. [27],17,563.8875708107345,88.19820994129127
+rand_60_s18,random 60x60,bastar,proposed (Sec. 3.3),17,315.00039706794547,87.33116591621875
+rand_60_s18,random 60x60,vns_bastar,raw (collinear removed),33,1485.0,91.99809577916153
+rand_60_s18,random 60x60,vns_bastar,Huang et al. [27],21,702.5701371823322,88.46431668904916
+rand_60_s18,random 60x60,vns_bastar,proposed (Sec. 3.3),21,575.4945098490401,87.46412259537182
+rand_60_s19,random 60x60,astar,raw (collinear removed),17,765.0,86.36753236814714
+rand_60_s19,random 60x60,astar,Huang et al. [27],15,585.0,85.96651093399163
+rand_60_s19,random 60x60,astar,proposed (Sec. 3.3),15,585.0,85.96651093399163
+rand_60_s19,random 60x60,bastar,raw (collinear removed),17,765.0,86.36753236814714
+rand_60_s19,random 60x60,bastar,Huang et al. [27],15,585.0,85.96651093399163
+rand_60_s19,random 60x60,bastar,proposed (Sec. 3.3),15,585.0,85.96651093399163
+rand_60_s19,random 60x60,vns_bastar,raw (collinear removed),16,765.0,87.60360034564692
+rand_60_s19,random 60x60,vns_bastar,Huang et al. [27],14,593.6320550397312,87.09161053465061
+rand_60_s19,random 60x60,vns_bastar,proposed (Sec. 3.3),14,450.50195268557525,86.02054272278515
+rand_60_s20,random 60x60,astar,raw (collinear removed),29,1305.0,89.29646455628165
+rand_60_s20,random 60x60,astar,Huang et al. [27],23,891.0514421841553,87.91228437112417
+rand_60_s20,random 60x60,astar,proposed (Sec. 3.3),23,891.0514421841553,87.91228437112417
+rand_60_s20,random 60x60,bastar,raw (collinear removed),29,1305.0,89.29646455628165
+rand_60_s20,random 60x60,bastar,Huang et al. [27],23,891.0514421841553,87.91228437112417
+rand_60_s20,random 60x60,bastar,proposed (Sec. 3.3),23,891.0514421841553,87.91228437112417
+rand_60_s20,random 60x60,vns_bastar,raw (collinear removed),33,1370.6096929375321,93.10517355216938
+rand_60_s20,random 60x60,vns_bastar,Huang et al. [27],27,1001.9008650177683,91.64393688932668
+rand_60_s20,random 60x60,vns_bastar,proposed (Sec. 3.3),27,920.2706972680052,91.30254045830416
+rand_60_s21,random 60x60,astar,raw (collinear removed),23,1035.0,89.29646455628165
+rand_60_s21,random 60x60,astar,Huang et al. [27],18,603.434948822922,88.12737168290553
+rand_60_s21,random 60x60,astar,proposed (Sec. 3.3),18,550.304846468766,87.6234998784961
+rand_60_s21,random 60x60,bastar,raw (collinear removed),18,810.0,87.53910524340094
+rand_60_s21,random 60x60,bastar,Huang et al. [27],14,480.1448723935701,86.46356752519333
+rand_60_s21,random 60x60,bastar,proposed (Sec. 3.3),14,198.02490355863605,85.4093504429603
+rand_60_s21,random 60x60,vns_bastar,raw (collinear removed),34,1415.6096929375321,88.76202780166173
+rand_60_s21,random 60x60,vns_bastar,Huang et al. [27],27,999.637538112931,87.6820419511629
+rand_60_s21,random 60x60,vns_bastar,proposed (Sec. 3.3),27,789.1273007068154,86.85093902992939
+rand_60_s22,random 60x60,astar,raw (collinear removed),27,1215.0,88.71067811865474
+rand_60_s22,random 60x60,astar,Huang et al. [27],25,1035.0,88.35438694890814
+rand_60_s22,random 60x60,astar,proposed (Sec. 3.3),25,1035.0,88.35438694890814
+rand_60_s22,random 60x60,bastar,raw (collinear removed),27,1215.0,88.71067811865474
+rand_60_s22,random 60x60,bastar,Huang et al. [27],25,1035.0,88.35438694890814
+rand_60_s22,random 60x60,bastar,proposed (Sec. 3.3),25,1035.0,88.35438694890814
+rand_60_s22,random 60x60,vns_bastar,raw (collinear removed),31,1227.479590583376,91.41230934153464
+rand_60_s22,random 60x60,vns_bastar,Huang et al. [27],21,653.1222147015612,89.30565545395747
+rand_60_s22,random 60x60,vns_bastar,proposed (Sec. 3.3),21,604.6667240656529,89.16352850324962
+rand_60_s23,random 60x60,astar,raw (collinear removed),14,630.0,85.78174593052023
+rand_60_s23,random 60x60,astar,Huang et al. [27],14,630.0,85.78174593052023
+rand_60_s23,random 60x60,astar,proposed (Sec. 3.3),14,630.0,85.78174593052023
+rand_60_s23,random 60x60,bastar,raw (collinear removed),14,630.0,85.78174593052023
+rand_60_s23,random 60x60,bastar,Huang et al. [27],14,630.0,85.78174593052023
+rand_60_s23,random 60x60,bastar,proposed (Sec. 3.3),14,630.0,85.78174593052023
+rand_60_s23,random 60x60,vns_bastar,raw (collinear removed),14,523.739795291688,85.4254547607736
+rand_60_s23,random 60x60,vns_bastar,Huang et al. [27],11,351.869897645844,85.00466848878102
+rand_60_s23,random 60x60,vns_bastar,proposed (Sec. 3.3),11,282.01307513598476,84.6217505368627
+rand_60_s24,random 60x60,astar,raw (collinear removed),23,1035.0,89.29646455628165
+rand_60_s24,random 60x60,astar,Huang et al. [27],19,681.3401917459099,88.37001237002482
+rand_60_s24,random 60x60,astar,proposed (Sec. 3.3),19,652.6947517895028,87.64996265717627
+rand_60_s24,random 60x60,bastar,raw (collinear removed),18,810.0,88.12489168102783
+rand_60_s24,random 60x60,bastar,Huang et al. [27],12,406.00508600525416,86.88718020499763
+rand_60_s24,random 60x60,bastar,proposed (Sec. 3.3),12,247.84813377819384,85.94818907463556
+rand_60_s24,random 60x60,vns_bastar,raw (collinear removed),18,855.0,89.8330956135272
+rand_60_s24,random 60x60,vns_bastar,Huang et al. [27],15,605.609692937532,87.54572466199903
+rand_60_s24,random 60x60,vns_bastar,proposed (Sec. 3.3),14,487.1096275419249,86.95239232877182
+rand_60_s25,random 60x60,astar,raw (collinear removed),32,1485.0,91.88225099390857
+rand_60_s25,random 60x60,astar,Huang et al. [27],27,1081.507435758775,90.61996060648738
+rand_60_s25,random 60x60,astar,proposed (Sec. 3.3),27,1053.434948822922,90.4809870561648
+rand_60_s25,random 60x60,bastar,raw (collinear removed),21,990.0,88.36753236814714
+rand_60_s25,random 60x60,bastar,Huang et al. [27],16,693.0695838103766,87.48990507264989
+rand_60_s25,random 60x60,bastar,proposed (Sec. 3.3),16,345.7889042898335,85.96718375731132
+rand_60_s25,random 60x60,vns_bastar,raw (collinear removed),26,1243.739795291688,93.76860051128124
+rand_60_s25,random 60x60,vns_bastar,Huang et al. [27],22,996.3596602397284,92.46356752519331
+rand_60_s25,random 60x60,vns_bastar,proposed (Sec. 3.3),22,853.2295578855725,91.96755209505237
+rand_60_s26,random 60x60,astar,raw (collinear removed),29,1305.0,89.29646455628165
+rand_60_s26,random 60x60,astar,Huang et al. [27],28,1215.0,89.05382386916236
+rand_60_s26,random 60x60,astar,proposed (Sec. 3.3),28,1215.0,89.05382386916236
+rand_60_s26,random 60x60,bastar,raw (collinear removed),29,1305.0,89.29646455628165
+rand_60_s26,random 60x60,bastar,Huang et al. [27],28,1215.0,89.05382386916236
+rand_60_s26,random 60x60,bastar,proposed (Sec. 3.3),28,1215.0,89.05382386916236
+rand_60_s26,random 60x60,vns_bastar,raw (collinear removed),24,1108.739795291688,89.4254547607736
+rand_60_s26,random 60x60,vns_bastar,Huang et al. [27],16,543.1798301198643,86.85290716034291
+rand_60_s26,random 60x60,vns_bastar,proposed (Sec. 3.3),15,438.5957121906989,86.47371913507595
+rand_60_s27,random 60x60,astar,raw (collinear removed),16,720.0,85.78174593052023
+rand_60_s27,random 60x60,astar,Huang et al. [27],16,720.0,85.78174593052023
+rand_60_s27,random 60x60,astar,proposed (Sec. 3.3),16,720.0,85.78174593052023
+rand_60_s27,random 60x60,bastar,raw (collinear removed),16,720.0,85.78174593052022
+rand_60_s27,random 60x60,bastar,Huang et al. [27],15,648.434948822922,85.60360034564692
+rand_60_s27,random 60x60,bastar,proposed (Sec. 3.3),15,497.3755370230538,85.10722964646811
+rand_60_s27,random 60x60,vns_bastar,raw (collinear removed),18,810.0,88.12489168102783
+rand_60_s27,random 60x60,vns_bastar,Huang et al. [27],17,756.869897645844,87.94674609615454
+rand_60_s27,random 60x60,vns_bastar,proposed (Sec. 3.3),17,613.739795291688,87.26114048716217
+rand_60_s28,random 60x60,astar,raw (collinear removed),25,1125.0,88.71067811865474
+rand_60_s28,random 60x60,astar,Huang et al. [27],22,873.434948822922,88.08678083521706
+rand_60_s28,random 60x60,astar,proposed (Sec. 3.3),22,873.434948822922,88.08678083521706
+rand_60_s28,random 60x60,bastar,raw (collinear removed),25,1125.0,88.71067811865474
+rand_60_s28,random 60x60,bastar,Huang et al. [27],22,873.434948822922,88.08678083521706
+rand_60_s28,random 60x60,bastar,proposed (Sec. 3.3),22,873.434948822922,88.08678083521706
+rand_60_s28,random 60x60,vns_bastar,raw (collinear removed),32,1440.0,91.70410540903525
+rand_60_s28,random 60x60,vns_bastar,Huang et al. [27],21,747.9622322043743,88.97990514295887
+rand_60_s28,random 60x60,vns_bastar,proposed (Sec. 3.3),21,627.4519947982589,88.57888370880336
+rand_60_s29,random 60x60,astar,raw (collinear removed),26,1170.0,89.29646455628165
+rand_60_s29,random 60x60,astar,Huang et al. [27],23,911.3099324740202,88.57721800782065
+rand_60_s29,random 60x60,astar,proposed (Sec. 3.3),23,858.1798301198643,88.32528210561593
+rand_60_s29,random 60x60,bastar,raw (collinear removed),22,990.0,86.95331880577403
+rand_60_s29,random 60x60,bastar,Huang et al. [27],17,604.4400348281762,85.87957519742122
+rand_60_s29,random 60x60,bastar,proposed (Sec. 3.3),17,286.24616830167736,84.78314834057332
+rand_60_s29,random 60x60,vns_bastar,raw (collinear removed),24,920.609692937532,87.83309561352722
+rand_60_s29,random 60x60,vns_bastar,Huang et al. [27],17,604.4400348281762,86.53915195237954
+rand_60_s29,random 60x60,vns_bastar,proposed (Sec. 3.3),17,360.40468849839516,85.06441944511444
+rand_80_s00,random 80x80,astar,raw (collinear removed),31,1395.0,117.58073580374355
+rand_80_s00,random 80x80,astar,Huang et al. [27],24,865.758365594724,116.31504559577647
+rand_80_s00,random 80x80,astar,proposed (Sec. 3.3),24,865.758365594724,116.31504559577647
+rand_80_s00,random 80x80,bastar,raw (collinear removed),31,1395.0,117.58073580374355
+rand_80_s00,random 80x80,bastar,Huang et al. [27],26,1002.5288077091515,116.70677181484655
+rand_80_s00,random 80x80,bastar,proposed (Sec. 3.3),26,808.278775011348,115.66642361508832
+rand_80_s00,random 80x80,vns_bastar,raw (collinear removed),39,1828.739795291688,123.46708532111623
+rand_80_s00,random 80x80,vns_bastar,Huang et al. [27],31,1281.3262184191426,121.48288148580303
+rand_80_s00,random 80x80,vns_bastar,proposed (Sec. 3.3),31,1064.0287423135444,120.38790943610566
+rand_80_s01,random 80x80,astar,raw (collinear removed),35,1575.0,120.50966799187808
+rand_80_s01,random 80x80,astar,Huang et al. [27],25,832.2961237052559,118.34817303957423
+rand_80_s01,random 80x80,astar,proposed (Sec. 3.3),25,832.2961237052559,118.34817303957423
+rand_80_s01,random 80x80,bastar,raw (collinear removed),35,1575.0,118.75230867899737
+rand_80_s01,random 80x80,bastar,Huang et al. [27],28,1024.695153531234,117.38189890403095
+rand_80_s01,random 80x80,bastar,proposed (Sec. 3.3),26,514.3030500872009,115.02293597412358
+rand_80_s01,random 80x80,vns_bastar,raw (collinear removed),32,1280.6096929375321,121.87472617386985
+rand_80_s01,random 80x80,vns_bastar,Huang et al. [27],26,1041.1199303436476,120.65749655720491
+rand_80_s01,random 80x80,vns_bastar,proposed (Sec. 3.3),26,792.5041231294563,119.47450133179848
+rand_80_s02,random 80x80,astar,raw (collinear removed),29,1350.0,120.16652224137044
+rand_80_s02,random 80x80,astar,Huang et al. [27],28,1260.0,119.98837665649715
+rand_80_s02,random 80x80,astar,proposed (Sec. 3.3),28,1186.260204708312,119.64523090598954
+rand_80_s02,random 80x80,bastar,raw (collinear removed),29,1305.0,118.16652224137047
+rand_80_s02,random 80x80,bastar,Huang et al. [27],23,893.7960583096487,116.97024591663622
+rand_80_s02,random 80x80,bastar,proposed (Sec. 3.3),23,613.8955138410653,115.9900574634519
+rand_80_s02,random 80x80,vns_bastar,raw (collinear removed),31,1386.869897645844,118.63865819637005
+rand_80_s02,random 80x80,vns_bastar,Huang et al. [27],25,994.1849161251184,117.2217688375096
+rand_80_s02,random 80x80,vns_bastar,proposed (Sec. 3.3),25,865.304846468766,116.2349609657272
+rand_80_s03,random 80x80,astar,raw (collinear removed),25,1125.0,117.58073580374355
+rand_80_s03,random 80x80,astar,Huang et al. [27],23,945.0,117.15994953175097
+rand_80_s03,random 80x80,astar,proposed (Sec. 3.3),23,945.0,117.15994953175097
+rand_80_s03,random 80x80,bastar,raw (collinear removed),26,1170.0,117.58073580374354
+rand_80_s03,random 80x80,bastar,Huang et al. [27],24,990.0,117.15994953175095
+rand_80_s03,random 80x80,bastar,proposed (Sec. 3.3),24,990.0,117.15994953175095
+rand_80_s03,random 80x80,vns_bastar,raw (collinear removed),35,1423.739795291688,119.97523123725816
+rand_80_s03,random 80x80,vns_bastar,Huang et al. [27],30,1107.7347092864338,118.99504278407385
+rand_80_s03,random 80x80,vns_bastar,proposed (Sec. 3.3),29,885.6133796291666,117.30010156031662
+rand_80_s04,random 80x80,astar,raw (collinear removed),37,1665.0,121.33809511662426
+rand_80_s04,random 80x80,astar,Huang et al. [27],25,862.4521501975172,119.17379376243966
+rand_80_s04,random 80x80,astar,proposed (Sec. 3.3),25,862.4521501975172,119.17379376243966
+rand_80_s04,random 80x80,bastar,raw (collinear removed),31,1395.0,120.75230867899738
+rand_80_s04,random 80x80,bastar,Huang et al. [27],25,988.7811247648688,119.58974125882402
+rand_80_s04,random 80x80,bastar,proposed (Sec. 3.3),25,589.1356989993429,118.03682333101601
+rand_80_s04,random 80x80,vns_bastar,raw (collinear removed),33,1423.739795291688,119.04629904912363
+rand_80_s04,random 80x80,vns_bastar,Huang et al. [27],26,1017.9622322043743,117.66270844362354
+rand_80_s04,random 80x80,vns_bastar,proposed (Sec. 3.3),26,911.7020274960624,117.26688759820277
+rand_80_s05,random 80x80,astar,raw (collinear removed),27,1215.0,119.33809511662427
+rand_80_s05,random 80x80,astar,Huang et al. [27],23,855.0,118.26118741197519
+rand_80_s05,random 80x80,astar,proposed (Sec. 3.3),23,855.0,118.26118741197519
+rand_80_s05,random 80x80,bastar,raw (collinear removed),25,1125.0,116.99494936611666
+rand_80_s05,random 80x80,bastar,Huang et al. [27],20,810.0,115.9541160148399
+rand_80_s05,random 80x80,bastar,proposed (Sec. 3.3),20,484.8856663015394,114.54425038580575
+rand_80_s05,random 80x80,vns_bastar,raw (collinear removed),40,1943.130102354156,124.05287175874314
+rand_80_s05,random 80x80,vns_bastar,Huang et al. [27],29,1366.260204708312,121.51356490501021
+rand_80_s05,random 80x80,vns_bastar,proposed (Sec. 3.3),29,1288.072486935853,121.17566643006765
+rand_80_s06,random 80x80,astar,raw (collinear removed),31,1395.0,117.58073580374356
+rand_80_s06,random 80x80,astar,Huang et al. [27],28,1125.0,116.86148925528254
+rand_80_s06,random 80x80,astar,proposed (Sec. 3.3),28,1071.869897645844,116.60955335307783
+rand_80_s06,random 80x80,bastar,raw (collinear removed),31,1395.0,117.58073580374356
+rand_80_s06,random 80x80,bastar,Huang et al. [27],28,1125.0,116.86148925528254
+rand_80_s06,random 80x80,bastar,proposed (Sec. 3.3),28,998.130102354156,116.36691266595854
+rand_80_s06,random 80x80,vns_bastar,raw (collinear removed),33,1575.0,123.22444463399694
+rand_80_s06,random 80x80,vns_bastar,Huang et al. [27],22,975.5102374061156,121.21579038720142
+rand_80_s06,random 80x80,vns_bastar,proposed (Sec. 3.3),22,835.0709626081538,119.63419213124374
+rand_80_s07,random 80x80,astar,raw (collinear removed),39,1755.0,119.92388155425118
+rand_80_s07,random 80x80,astar,Huang et al. [27],30,1089.2997604635118,118.21057045097427
+rand_80_s07,random 80x80,astar,proposed (Sec. 3.3),30,1076.619376971692,117.95684043891475
+rand_80_s07,random 80x80,bastar,raw (collinear removed),19,855.0,118.16652224137044
+rand_80_s07,random 80x80,bastar,Huang et al. [27],17,675.0,117.81023107162386
+rand_80_s07,random 80x80,bastar,proposed (Sec. 3.3),16,343.4519277975036,115.72163223058257
+rand_80_s07,random 80x80,vns_bastar,raw (collinear removed),33,1620.0,123.40259021887024
+rand_80_s07,random 80x80,vns_bastar,Huang et al. [27],27,1223.130102354156,122.03972633950414
+rand_80_s07,random 80x80,vns_bastar,proposed (Sec. 3.3),26,1031.317820126615,120.67755059088323
+rand_80_s08,random 80x80,astar,raw (collinear removed),29,1305.0,119.33809511662427
+rand_80_s08,random 80x80,astar,Huang et al. [27],22,696.8014094863518,117.48427344736406
+rand_80_s08,random 80x80,astar,proposed (Sec. 3.3),22,686.4125516708822,117.22345531140523
+rand_80_s08,random 80x80,bastar,raw (collinear removed),29,1305.0,119.33809511662427
+rand_80_s08,random 80x80,bastar,Huang et al. [27],22,696.8014094863518,117.48427344736406
+rand_80_s08,random 80x80,bastar,proposed (Sec. 3.3),22,686.4125516708822,117.22345531140523
+rand_80_s08,random 80x80,vns_bastar,raw (collinear removed),31,1333.739795291688,119.63208548675055
+rand_80_s08,random 80x80,vns_bastar,Huang et al. [27],27,1145.6096929375321,119.14680411251197
+rand_80_s08,random 80x80,vns_bastar,proposed (Sec. 3.3),27,1033.4303507940162,118.24932221887727
+rand_80_s09,random 80x80,astar,raw (collinear removed),31,1395.0,117.58073580374355
+rand_80_s09,random 80x80,astar,Huang et al. [27],27,1046.3099324740201,116.45296671589641
+rand_80_s09,random 80x80,astar,proposed (Sec. 3.3),27,1046.3099324740201,116.45296671589641
+rand_80_s09,random 80x80,bastar,raw (collinear removed),31,1395.0,117.58073580374355
+rand_80_s09,random 80x80,bastar,Huang et al. [27],27,1046.3099324740201,116.45296671589641
+rand_80_s09,random 80x80,bastar,proposed (Sec. 3.3),27,1046.3099324740201,116.45296671589641
+rand_80_s09,random 80x80,vns_bastar,raw (collinear removed),34,1505.6096929375321,123.45393990187725
+rand_80_s09,random 80x80,vns_bastar,Huang et al. [27],24,968.5497931613155,120.39247778376536
+rand_80_s09,random 80x80,vns_bastar,proposed (Sec. 3.3),24,954.2997604635118,120.34774751935646
+rand_80_s10,random 80x80,astar,raw (collinear removed),30,1350.0,117.58073580374356
+rand_80_s10,random 80x80,astar,Huang et al. [27],25,910.2346296999452,116.252232354381
+rand_80_s10,random 80x80,astar,proposed (Sec. 3.3),25,910.2346296999452,116.252232354381
+rand_80_s10,random 80x80,bastar,raw (collinear removed),30,1350.0,117.58073580374356
+rand_80_s10,random 80x80,bastar,Huang et al. [27],25,910.2346296999452,116.252232354381
+rand_80_s10,random 80x80,bastar,proposed (Sec. 3.3),25,910.2346296999452,116.252232354381
+rand_80_s10,random 80x80,vns_bastar,raw (collinear removed),31,1603.739795291688,119.70972600823552
+rand_80_s10,random 80x80,vns_bastar,Huang et al. [27],21,885.7499673021964,116.12235737709979
+rand_80_s10,random 80x80,vns_bastar,proposed (Sec. 3.3),21,712.1096275419249,115.43712908771239
+rand_80_s11,random 80x80,astar,raw (collinear removed),31,1395.0,119.33809511662427
+rand_80_s11,random 80x80,astar,Huang et al. [27],24,975.8797451853699,118.27710330909986
+rand_80_s11,random 80x80,astar,proposed (Sec. 3.3),24,908.4996101334103,117.96190926031954
+rand_80_s11,random 80x80,bastar,raw (collinear removed),37,1665.0,118.75230867899738
+rand_80_s11,random 80x80,bastar,Huang et al. [27],28,1095.2551187030579,117.38500505644676
+rand_80_s11,random 80x80,bastar,proposed (Sec. 3.3),28,804.0454253266122,116.05670322115634
+rand_80_s11,random 80x80,vns_bastar,raw (collinear removed),44,2090.609692937532,124.3468621288694
+rand_80_s11,random 80x80,vns_bastar,Huang et al. [27],33,1370.823482167409,119.80937968151223
+rand_80_s11,random 80x80,vns_bastar,proposed (Sec. 3.3),33,1105.1729703966291,117.65381293929023
+rand_80_s12,random 80x80,astar,raw (collinear removed),31,1395.0,120.16652224137047
+rand_80_s12,random 80x80,astar,Huang et al. [27],27,1049.0362434679264,119.2515170211773
+rand_80_s12,random 80x80,astar,proposed (Sec. 3.3),27,1049.0362434679264,119.2515170211773
+rand_80_s12,random 80x80,bastar,raw (collinear removed),32,1440.0,116.99494936611666
+rand_80_s12,random 80x80,bastar,Huang et al. [27],26,1012.6003964542219,115.9947068625284
+rand_80_s12,random 80x80,bastar,proposed (Sec. 3.3),26,714.1003310586148,114.65335714048449
+rand_80_s12,random 80x80,vns_bastar,raw (collinear removed),27,1153.739795291688,117.22444463399695
+rand_80_s12,random 80x80,vns_bastar,Huang et al. [27],21,689.4702941000659,115.69653579862683
+rand_80_s12,random 80x80,vns_bastar,proposed (Sec. 3.3),21,527.6701948196334,114.92249082043305
+rand_80_s13,random 80x80,astar,raw (collinear removed),31,1395.0,119.33809511662427
+rand_80_s13,random 80x80,astar,Huang et al. [27],28,1143.434948822922,118.65607772734153
+rand_80_s13,random 80x80,astar,proposed (Sec. 3.3),28,1135.8067991543412,118.38672860346452
+rand_80_s13,random 80x80,bastar,raw (collinear removed),31,1395.0,119.33809511662427
+rand_80_s13,random 80x80,bastar,Huang et al. [27],28,1143.434948822922,118.65607772734153
+rand_80_s13,random 80x80,bastar,proposed (Sec. 3.3),28,1135.8067991543412,118.38672860346452
+rand_80_s13,random 80x80,vns_bastar,raw (collinear removed),40,1800.0,121.56759038450457
+rand_80_s13,random 80x80,vns_bastar,Huang et al. [27],31,1244.2913621709843,119.9792159825703
+rand_80_s13,random 80x80,vns_bastar,proposed (Sec. 3.3),31,1191.1612598168283,119.75634013328809
+rand_80_s14,random 80x80,astar,raw (collinear removed),29,1305.0,116.40916292848974
+rand_80_s14,random 80x80,astar,Huang et al. [27],26,1035.0,115.82999590946093
+rand_80_s14,random 80x80,astar,proposed (Sec. 3.3),26,1035.0,115.82999590946093
+rand_80_s14,random 80x80,bastar,raw (collinear removed),25,1125.0,116.40916292848974
+rand_80_s14,random 80x80,bastar,Huang et al. [27],21,866.3099324740202,115.69406210604834
+rand_80_s14,random 80x80,bastar,proposed (Sec. 3.3),21,414.6780698208277,113.73022973422499
+rand_80_s14,random 80x80,vns_bastar,raw (collinear removed),27,1137.479590583376,117.9392212761158
+rand_80_s14,random 80x80,vns_bastar,Huang et al. [27],17,625.0497277657082,114.97003338036986
+rand_80_s14,random 80x80,vns_bastar,proposed (Sec. 3.3),17,557.6695927137487,114.74715753108765
+rand_80_s15,random 80x80,astar,raw (collinear removed),37,1665.0,119.33809511662429
+rand_80_s15,random 80x80,astar,Huang et al. [27],29,971.4810398303744,117.55778167374825
+rand_80_s15,random 80x80,astar,proposed (Sec. 3.3),29,971.4810398303744,117.55778167374825
+rand_80_s15,random 80x80,bastar,raw (collinear removed),31,1395.0,116.99494936611666
+rand_80_s15,random 80x80,bastar,Huang et al. [27],26,1004.4702941000659,116.04540095003341
+rand_80_s15,random 80x80,bastar,proposed (Sec. 3.3),26,528.7500677276951,114.34596594838807
+rand_80_s15,random 80x80,vns_bastar,raw (collinear removed),40,1656.869897645844,119.21129921475796
+rand_80_s15,random 80x80,vns_bastar,Huang et al. [27],28,956.8058543923266,117.1278925988314
+rand_80_s15,random 80x80,vns_bastar,proposed (Sec. 3.3),29,804.7545987558456,116.4114340670546
+rand_80_s16,random 80x80,astar,raw (collinear removed),36,1710.0,119.58073580374355
+rand_80_s16,random 80x80,astar,Huang et al. [27],32,1368.434948822922,118.61690569279084
+rand_80_s16,random 80x80,astar,proposed (Sec. 3.3),32,1368.434948822922,118.61690569279084
+rand_80_s16,random 80x80,bastar,raw (collinear removed),39,1755.0,118.16652224137047
+rand_80_s16,random 80x80,bastar,Huang et al. [27],29,1032.8252558853899,116.5062342775227
+rand_80_s16,random 80x80,bastar,proposed (Sec. 3.3),29,726.7776486301841,114.99504927691977
+rand_80_s16,random 80x80,vns_bastar,raw (collinear removed),37,1665.0,122.98180394687766
+rand_80_s16,random 80x80,vns_bastar,Huang et al. [27],24,881.565051177078,120.44226313681204
+rand_80_s16,random 80x80,vns_bastar,proposed (Sec. 3.3),24,776.9898949902469,119.58952076935624
+rand_80_s17,random 80x80,astar,raw (collinear removed),33,1485.0,118.16652224137046
+rand_80_s17,random 80x80,astar,Huang et al. [27],26,948.5798212164922,116.54917043207678
+rand_80_s17,random 80x80,astar,proposed (Sec. 3.3),25,895.4497188623361,116.29723452987207
+rand_80_s17,random 80x80,bastar,raw (collinear removed),22,990.0,115.23759005323593
+rand_80_s17,random 80x80,bastar,Huang et al. [27],16,595.8564133480622,113.98166521326092
+rand_80_s17,random 80x80,bastar,proposed (Sec. 3.3),16,444.83593853583113,113.43155824715464
+rand_80_s17,random 80x80,vns_bastar,raw (collinear removed),20,740.609692937532,114.70315329861602
+rand_80_s17,random 80x80,vns_bastar,Huang et al. [27],18,616.4661062855943,114.36259131995759
+rand_80_s17,random 80x80,vns_bastar,proposed (Sec. 3.3),18,475.3461759419467,113.89707478355612
+rand_80_s18,random 80x80,astar,raw (collinear removed),23,1035.0,116.40916292848975
+rand_80_s18,random 80x80,astar,Huang et al. [27],21,861.3401917459099,115.97728733155692
+rand_80_s18,random 80x80,astar,proposed (Sec. 3.3),21,861.3401917459099,115.97728733155692
+rand_80_s18,random 80x80,bastar,raw (collinear removed),31,1395.0,118.16652224137047
+rand_80_s18,random 80x80,bastar,Huang et al. [27],26,1013.267704810057,116.93607868356314
+rand_80_s18,random 80x80,bastar,proposed (Sec. 3.3),26,831.2032154269256,115.87203387668787
+rand_80_s18,random 80x80,vns_bastar,raw (collinear removed),29,1198.739795291688,119.04629904912362
+rand_80_s18,random 80x80,vns_bastar,Huang et al. [27],23,898.210089391754,118.13299228210579
+rand_80_s18,random 80x80,vns_bastar,proposed (Sec. 3.3),23,814.5697496314824,117.80576116528171
+rand_80_s19,random 80x80,astar,raw (collinear removed),25,1125.0,116.99494936611666
+rand_80_s19,random 80x80,astar,Huang et al. [27],22,861.3401917459099,116.27570281765563
+rand_80_s19,random 80x80,astar,proposed (Sec. 3.3),22,861.3401917459099,116.27570281765563
+rand_80_s19,random 80x80,bastar,raw (collinear removed),26,1170.0,116.40916292848975
+rand_80_s19,random 80x80,bastar,Huang et al. [27],23,924.775140568832,115.73464664443763
+rand_80_s19,random 80x80,bastar,proposed (Sec. 3.3),23,834.775140568832,115.28889494587322
+rand_80_s19,random 80x80,vns_bastar,raw (collinear removed),36,1656.869897645844,123.56759038450457
+rand_80_s19,random 80x80,vns_bastar,Huang et al. [27],25,998.2882466230433,121.46185284471304
+rand_80_s19,random 80x80,vns_bastar,proposed (Sec. 3.3),25,869.3600393685873,120.44514832061128
+rand_80_s20,random 80x80,astar,raw (collinear removed),27,1215.0,118.16652224137047
+rand_80_s20,random 80x80,astar,Huang et al. [27],23,945.0,117.56759038450457
+rand_80_s20,random 80x80,astar,proposed (Sec. 3.3),23,945.0,117.56759038450457
+rand_80_s20,random 80x80,bastar,raw (collinear removed),20,900.0,115.23759005323595
+rand_80_s20,random 80x80,bastar,Huang et al. [27],18,787.3801350519595,114.92239600445563
+rand_80_s20,random 80x80,bastar,proposed (Sec. 3.3),18,407.6992782658383,113.53077771512447
+rand_80_s20,random 80x80,vns_bastar,raw (collinear removed),27,1063.739795291688,120.21787192437745
+rand_80_s20,random 80x80,vns_bastar,Huang et al. [27],19,613.739795291688,118.78121772767994
+rand_80_s20,random 80x80,vns_bastar,proposed (Sec. 3.3),19,483.3740877760555,117.89621309571656
+rand_80_s21,random 80x80,astar,raw (collinear removed),21,990.0,118.99494936611666
+rand_80_s21,random 80x80,astar,Huang et al. [27],20,900.0,118.81680378124335
+rand_80_s21,random 80x80,astar,proposed (Sec. 3.3),20,900.0,118.81680378124335
+rand_80_s21,random 80x80,bastar,raw (collinear removed),27,1215.0,118.99494936611666
+rand_80_s21,random 80x80,bastar,Huang et al. [27],20,713.2749747477261,117.55574314169627
+rand_80_s21,random 80x80,bastar,proposed (Sec. 3.3),20,412.96184311358513,116.521034526706
+rand_80_s21,random 80x80,vns_bastar,raw (collinear removed),28,1350.0,119.46708532111623
+rand_80_s21,random 80x80,vns_bastar,Huang et al. [27],20,853.6028189727036,117.13863322595958
+rand_80_s21,random 80x80,vns_bastar,proposed (Sec. 3.3),20,817.8903724580751,116.2699238196139
+rand_80_s22,random 80x80,astar,raw (collinear removed),28,1260.0,116.99494936611666
+rand_80_s22,random 80x80,astar,Huang et al. [27],24,917.1672429602279,115.52260616496996
+rand_80_s22,random 80x80,astar,proposed (Sec. 3.3),25,1007.1672429602279,116.2351885044632
+rand_80_s22,random 80x80,bastar,raw (collinear removed),28,1260.0,116.99494936611666
+rand_80_s22,random 80x80,bastar,Huang et al. [27],24,917.1672429602279,115.52260616496997
+rand_80_s22,random 80x80,bastar,proposed (Sec. 3.3),25,954.037140606072,116.05704291958989
+rand_80_s22,random 80x80,vns_bastar,raw (collinear removed),37,1656.869897645844,121.74573596937785
+rand_80_s22,random 80x80,vns_bastar,Huang et al. [27],33,1451.3099324740201,121.16656895034906
+rand_80_s22,random 80x80,vns_bastar,proposed (Sec. 3.3),33,1373.1222147015612,120.58987999244077
+rand_80_s23,random 80x80,astar,raw (collinear removed),31,1395.0,120.5096679918781
+rand_80_s23,random 80x80,astar,Huang et al. [27],24,797.6849815207256,119.12845810453825
+rand_80_s23,random 80x80,astar,proposed (Sec. 3.3),24,730.3048464687661,118.81326405575794
+rand_80_s23,random 80x80,bastar,raw (collinear removed),19,855.0,114.65180361560903
+rand_80_s23,random 80x80,bastar,Huang et al. [27],16,656.565051177078,114.1305185895273
+rand_80_s23,random 80x80,bastar,proposed (Sec. 3.3),16,370.917837451978,113.11038728051815
+rand_80_s23,random 80x80,vns_bastar,raw (collinear removed),32,1460.6096929375321,118.70315329861602
+rand_80_s23,random 80x80,vns_bastar,Huang et al. [27],23,814.9691061692027,116.15572647437989
+rand_80_s23,random 80x80,vns_bastar,proposed (Sec. 3.3),22,689.9845871619913,115.42536122045928
+rand_80_s24,random 80x80,astar,raw (collinear removed),19,855.0,116.40916292848975
+rand_80_s24,random 80x80,astar,Huang et al. [27],18,765.0,116.18628707920753
+rand_80_s24,random 80x80,astar,proposed (Sec. 3.3),18,711.869897645844,115.6824152747981
+rand_80_s24,random 80x80,bastar,raw (collinear removed),19,855.0,116.40916292848975
+rand_80_s24,random 80x80,bastar,Huang et al. [27],18,765.0,116.18628707920753
+rand_80_s24,random 80x80,bastar,proposed (Sec. 3.3),18,711.869897645844,115.6824152747981
+rand_80_s24,random 80x80,vns_bastar,raw (collinear removed),27,1145.6096929375321,121.5315804233622
+rand_80_s24,random 80x80,vns_bastar,Huang et al. [27],24,1032.9898279894917,120.76386662526504
+rand_80_s24,random 80x80,vns_bastar,proposed (Sec. 3.3),24,722.4241111315735,119.20776741121055
+rand_80_s25,random 80x80,astar,raw (collinear removed),28,1260.0,120.75230867899737
+rand_80_s25,random 80x80,astar,Huang et al. [27],25,1008.9246444160513,119.97510594835808
+rand_80_s25,random 80x80,astar,proposed (Sec. 3.3),25,1000.3888578154696,119.93770443524713
+rand_80_s25,random 80x80,bastar,raw (collinear removed),28,1260.0,120.75230867899737
+rand_80_s25,random 80x80,bastar,Huang et al. [27],25,1008.9246444160513,119.97510594835808
+rand_80_s25,random 80x80,bastar,proposed (Sec. 3.3),25,1000.3888578154696,119.93770443524713
+rand_80_s25,random 80x80,vns_bastar,raw (collinear removed),34,1460.6096929375321,119.63208548675055
+rand_80_s25,random 80x80,vns_bastar,Huang et al. [27],30,1184.2500326978036,118.71846070686365
+rand_80_s25,random 80x80,vns_bastar,proposed (Sec. 3.3),30,1082.4984853573944,118.31589041358473
+rand_80_s26,random 80x80,astar,raw (collinear removed),21,945.0,116.40916292848975
+rand_80_s26,random 80x80,astar,Huang et al. [27],17,609.7946090626505,115.49976389026928
+rand_80_s26,random 80x80,astar,proposed (Sec. 3.3),17,609.7946090626505,115.49976389026928
+rand_80_s26,random 80x80,bastar,raw (collinear removed),21,945.0,116.40916292848975
+rand_80_s26,random 80x80,bastar,Huang et al. [27],17,609.7946090626505,115.49976389026928
+rand_80_s26,random 80x80,bastar,proposed (Sec. 3.3),17,609.7946090626505,115.49976389026928
+rand_80_s26,random 80x80,vns_bastar,raw (collinear removed),30,1288.739795291688,120.21787192437745
+rand_80_s26,random 80x80,vns_bastar,Huang et al. [27],24,934.4943606227902,119.10048467856267
+rand_80_s26,random 80x80,vns_bastar,proposed (Sec. 3.3),24,854.1598725970601,118.64620098254863
+rand_80_s27,random 80x80,astar,raw (collinear removed),18,810.0,115.23759005323593
+rand_80_s27,random 80x80,astar,Huang et al. [27],18,810.0,115.23759005323593
+rand_80_s27,random 80x80,astar,proposed (Sec. 3.3),18,810.0,115.23759005323593
+rand_80_s27,random 80x80,bastar,raw (collinear removed),18,810.0,114.65180361560903
+rand_80_s27,random 80x80,bastar,Huang et al. [27],18,810.0,114.65180361560903
+rand_80_s27,random 80x80,bastar,proposed (Sec. 3.3),18,490.9182260979326,113.41614214017928
+rand_80_s27,random 80x80,vns_bastar,raw (collinear removed),26,904.34948822922,118.64085249899567
+rand_80_s27,random 80x80,vns_bastar,Huang et al. [27],20,613.739795291688,116.52233191725539
+rand_80_s27,random 80x80,vns_bastar,proposed (Sec. 3.3),20,468.8015600820477,115.97582507052691
+rand_80_s28,random 80x80,astar,raw (collinear removed),33,1485.0,117.58073580374355
+rand_80_s28,random 80x80,astar,Huang et al. [27],31,1331.565051177078,117.17971436958805
+rand_80_s28,random 80x80,astar,proposed (Sec. 3.3),31,1331.565051177078,117.17971436958805
+rand_80_s28,random 80x80,bastar,raw (collinear removed),28,1260.0,116.40916292848975
+rand_80_s28,random 80x80,bastar,Huang et al. [27],24,969.4097755562865,115.6806211649433
+rand_80_s28,random 80x80,bastar,proposed (Sec. 3.3),24,584.7307311981697,114.09470188804269
+rand_80_s28,random 80x80,vns_bastar,raw (collinear removed),37,1550.6096929375321,118.28236702662343
+rand_80_s28,random 80x80,vns_bastar,Huang et al. [27],29,1080.0194684938185,115.33362521028212
+rand_80_s28,random 80x80,vns_bastar,proposed (Sec. 3.3),29,820.4083263092882,114.4738752174574
+rand_80_s29,random 80x80,astar,raw (collinear removed),24,1080.0,116.40916292848975
+rand_80_s29,random 80x80,astar,Huang et al. [27],20,720.0,115.44316949124017
+rand_80_s29,random 80x80,astar,proposed (Sec. 3.3),20,720.0,115.44316949124017
+rand_80_s29,random 80x80,bastar,raw (collinear removed),20,900.0,114.65180361560903
+rand_80_s29,random 80x80,bastar,Huang et al. [27],19,810.0,114.42892776632684
+rand_80_s29,random 80x80,bastar,proposed (Sec. 3.3),19,495.23972989608086,113.38424421089654
+rand_80_s29,random 80x80,vns_bastar,raw (collinear removed),43,1714.34948822922,120.26922160738444
+rand_80_s29,random 80x80,vns_bastar,Huang et al. [27],32,1209.044641760454,117.78801660951156
+rand_80_s29,random 80x80,vns_bastar,proposed (Sec. 3.3),31,996.6922550372374,117.14363237524799

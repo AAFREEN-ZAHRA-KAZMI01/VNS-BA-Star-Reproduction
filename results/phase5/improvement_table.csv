@@ -1,0 +1,7 @@
+metric,published,ours,difference
+Mean improvement in number of nodes (%),7.889374999999999,14.744375,6.855
+Mean improvement in number of turns (%),55.28875,48.365624999999994,-6.923125000000006
+Mean improvement in turn angle (deg) (%),51.386875,71.311875,19.924999999999997
+Mean improvement in path length (%),3.1911875,4.519375,1.3281875000000003
+"Mean comprehensive rate, 4 metrics (%)",29.439375000000002,34.735625,5.296249999999997
+"Mean comprehensive rate, Fig. 12 / 5 metrics (%)",34.81999999999999,-335.725,-370.545

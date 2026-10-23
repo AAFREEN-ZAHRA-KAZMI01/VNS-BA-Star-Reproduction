@@ -1,0 +1,97 @@
+{
+  "pruning_cases": 372,
+  "proposed_fewer_turns_frac": 0.04032258064516129,
+  "equal_frac": 0.946236559139785,
+  "proposed_more_turns_frac": 0.013440860215053764,
+  "mean_turns_huang": 14.663978494623656,
+  "mean_turns_proposed": 14.634408602150538,
+  "mean_turns_raw": 18.126344086021504,
+  "reduction_vs_huang_pct": 0.2016498625114557,
+  "wilcoxon_p": 0.02181011914372237,
+  "paper_maps_turns": {
+    "map_A_20|astar": [
+      5,
+      5,
+      7
+    ],
+    "map_A_20|bastar": [
+      5,
+      5,
+      10
+    ],
+    "map_A_20|vns_bastar": [
+      5,
+      5,
+      11
+    ],
+    "map_B_40|astar": [
+      7,
+      7,
+      9
+    ],
+    "map_B_40|bastar": [
+      7,
+      7,
+      12
+    ],
+    "map_B_40|vns_bastar": [
+      7,
+      7,
+      15
+    ],
+    "map_C_60|astar": [
+      5,
+      5,
+      7
+    ],
+    "map_C_60|bastar": [
+      4,
+      4,
+      8
+    ],
+    "map_C_60|vns_bastar": [
+      4,
+      4,
+      16
+    ],
+    "map_D_80|astar": [
+      22,
+      22,
+      25
+    ],
+    "map_D_80|bastar": [
+      19,
+      19,
+      24
+    ],
+    "map_D_80|vns_bastar": [
+      15,
+      15,
+      26
+    ]
+  },
+  "alt26_mean_turns": 20.927419354838708,
+  "vns_mean_turns": 20.54032258064516,
+  "alt26_more_turns_frac": 0.3951612903225806,
+  "alt26_mean_nodes": 215.28225806451613,
+  "vns_mean_nodes": 219.7983870967742,
+  "alt26_turns_wilcoxon_p": 0.9539854813391723,
+  "paper_maps_alt26_vs_vns_turns": {
+    "map_A_20": [
+      12,
+      11
+    ],
+    "map_B_40": [
+      19,
+      15
+    ],
+    "map_C_60": [
+      8,
+      16
+    ],
+    "map_D_80": [
+      24,
+      26
+    ]
+  }
+}

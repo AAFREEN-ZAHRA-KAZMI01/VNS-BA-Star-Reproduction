@@ -1,0 +1,20 @@
+{
+  "name": "rand_20_s02",
+  "size": 20,
+  "start": [
+    0,
+    0
+  ],
+  "goal": [
+    19,
+    19
+  ],
+  "density": 0.2,
+  "source": "generated: numpy default_rng, i.i.d. obstacles",
+  "convention": "grid[r,c], r=0 bottom; points (c,r); txt top row first",
+  "seed": 2,
+  "effective_seed": 2,
+  "attempt": 0,
+  "target_density": 0.2,
+  "optimal_length": 28.0416
+}

@@ -1,0 +1,7 @@
+random,method,turns,turn_angle_deg,length
+False,Huang et al. [27],8.75,288.991,62.159
+False,proposed (Sec. 3.3),8.75,238.148,61.312
+False,raw (collinear removed),14.167,586.717,63.796
+True,Huang et al. [27],14.861,586.342,72.821
+True,proposed (Sec. 3.3),14.831,514.521,72.46
+True,raw (collinear removed),18.258,821.859,73.616

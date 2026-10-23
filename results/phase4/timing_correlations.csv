@@ -1,0 +1,16 @@
+predictor,scope,spearman,pearson
+expanded,all 20 cells,0.897,0.865
+expanded,map_A_20,-0.154,
+expanded,map_B_40,1.0,
+expanded,map_C_60,0.9,
+expanded,map_D_80,0.2,
+generated,all 20 cells,0.853,0.673
+generated,map_A_20,-0.5,
+generated,map_B_40,0.7,
+generated,map_C_60,0.8,
+generated,map_D_80,-0.5,
+time_s,all 20 cells,0.235,-0.185
+time_s,map_A_20,-0.4,
+time_s,map_B_40,-0.3,
+time_s,map_C_60,-0.2,
+time_s,map_D_80,-0.9,

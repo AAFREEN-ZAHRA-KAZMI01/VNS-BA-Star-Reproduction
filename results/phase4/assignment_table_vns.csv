@@ -1,0 +1,21 @@
+map,metric,published,ours,difference,difference_pct
+A (20x20),Number of nodes,100.0,89.0,-11.0,-11.0
+A (20x20),Number of turns,4.0,5.0,1.0,25.0
+A (20x20),Turn angle (deg),208.967,114.8927,-94.0743,-45.0
+A (20x20),Path length,27.476,28.5253,1.0493,3.8
+A (20x20),Planning time (s),2.553,0.0055,-2.5475,-99.8
+B (40x40),Number of nodes,252.0,195.0,-57.0,-22.6
+B (40x40),Number of turns,4.0,7.0,3.0,75.0
+B (40x40),Turn angle (deg),289.823,132.2058,-157.6172,-54.4
+B (40x40),Path length,61.263,58.6,-2.663,-4.3
+B (40x40),Planning time (s),20.419,0.01471,-20.4043,-99.9
+C (60x60),Number of nodes,257.0,255.0,-2.0,-0.8
+C (60x60),Number of turns,4.0,4.0,0.0,0.0
+C (60x60),Turn angle (deg),163.072,104.0362,-59.0358,-36.2
+C (60x60),Path length,57.517,57.3744,-0.1426,-0.2
+C (60x60),Planning time (s),12.33,0.01821,-12.3118,-99.9
+D (80x80),Number of nodes,355.0,368.0,13.0,3.7
+D (80x80),Number of turns,14.0,15.0,1.0,7.1
+D (80x80),Turn angle (deg),672.95,496.3071,-176.6429,-26.2
+D (80x80),Path length,103.7,99.9533,-3.7467,-3.6
+D (80x80),Planning time (s),35.345,0.03999,-35.305,-99.9

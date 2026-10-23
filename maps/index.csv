@@ -1,0 +1,9 @@
+map,size,obstacles,density_pct,start_cr,goal_cr,source
+map_A_20,20x20,78,19.5,"(19, 0)","(0, 19)","digitised from Fig. 8 (PDF p.10), 5-subfigure majority vote"
+map_B_40,40x40,421,26.31,"(39, 39)","(0, 0)","digitised from Fig. 9 (PDF p.11), 5-subfigure majority vote"
+map_C_60,60x60,898,24.94,"(3, 17)","(55, 32)","digitised from Fig. 10 (PDF p.11), 5-subfigure majority vote"
+map_D_80,80x80,2200,34.38,"(9, 75)","(75, 9)","digitised from Fig. 11 (PDF p.12), 5-subfigure majority vote"
+tune_a,20x20,69,17.25,"(19, 19)","(0, 0)",digitised from Fig. 3(a) (PDF p.6)
+tune_b,20x20,64,16.0,"(2, 2)","(12, 12)",digitised from Fig. 3(b) (PDF p.6)
+tune_c,20x20,78,19.5,"(1, 18)","(9, 0)",digitised from Fig. 3(c) (PDF p.6)
+tune_d,20x20,80,20.0,"(13, 17)","(1, 2)",digitised from Fig. 3(d) (PDF p.6)

@@ -1,0 +1,25 @@
+map,algorithm,variant,expanded,generated,pub_nodes,length,pub_length,turns,pub_turns,length_match,turns_match,gen_err_%,exp_err_%
+map_A_20,A*,h=manhattan,24,83,84,28.627,28.627,7,7,True,True,-1.2,-71.4
+map_A_20,A*,h=euclid,110,163,84,28.627,28.627,9,7,True,False,94.0,31.0
+map_A_20,A*,h=switch,40,95,84,30.042,28.627,11,7,False,False,13.1,-52.4
+map_A_20,BA*,"h=manhattan, meet=pop_closed",25,88,88,28.627,28.627,10,10,True,True,0.0,-71.6
+map_A_20,BA*,"h=manhattan, meet=open_closed",24,87,88,28.627,28.627,10,10,True,True,-1.1,-72.7
+map_A_20,BA*,"h=manhattan, meet=pop_in_open",24,84,88,28.627,28.627,10,10,True,True,-4.5,-72.7
+map_B_40,A*,h=manhattan,203,343,345,61.598,61.598,9,9,True,True,-0.6,-41.2
+map_B_40,A*,h=euclid,481,561,345,61.598,61.598,12,9,True,False,62.6,39.4
+map_B_40,A*,h=switch,208,350,345,63.012,61.598,11,9,False,False,1.4,-39.7
+map_B_40,BA*,"h=manhattan, meet=pop_closed",118,286,286,61.598,61.598,12,12,True,True,0.0,-58.7
+map_B_40,BA*,"h=manhattan, meet=open_closed",114,283,286,62.426,61.598,13,12,False,False,-1.0,-60.1
+map_B_40,BA*,"h=manhattan, meet=pop_in_open",114,282,286,62.426,61.598,13,12,False,False,-1.4,-60.1
+map_C_60,A*,h=manhattan,278,411,423,59.385,59.385,7,7,True,True,-2.8,-34.3
+map_C_60,A*,h=euclid,533,648,423,59.385,59.385,18,7,True,False,53.2,26.0
+map_C_60,A*,h=switch,287,421,423,60.799,59.385,11,7,False,False,-0.5,-32.2
+map_C_60,BA*,"h=manhattan, meet=pop_closed",352,565,564,59.385,59.3848,8,8,True,True,0.2,-37.6
+map_C_60,BA*,"h=manhattan, meet=open_closed",348,561,564,60.213,59.3848,9,8,False,False,-0.5,-38.3
+map_C_60,BA*,"h=manhattan, meet=pop_in_open",348,560,564,60.213,59.3848,9,8,False,False,-0.7,-38.3
+map_D_80,A*,h=manhattan,138,351,352,103.296,103.297,25,25,True,True,-0.3,-60.8
+map_D_80,A*,h=euclid,1273,1423,352,102.125,103.297,21,25,False,False,304.3,261.6
+map_D_80,A*,h=switch,144,351,352,103.296,103.297,27,25,True,False,-0.3,-59.1
+map_D_80,BA*,"h=manhattan, meet=pop_closed",228,612,611,102.125,102.125,24,24,True,True,0.2,-62.7
+map_D_80,BA*,"h=manhattan, meet=open_closed",224,607,611,102.953,102.125,25,24,False,False,-0.7,-63.3
+map_D_80,BA*,"h=manhattan, meet=pop_in_open",224,606,611,102.953,102.125,25,24,False,False,-0.8,-63.3

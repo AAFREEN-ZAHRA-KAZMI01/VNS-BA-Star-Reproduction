@@ -1,0 +1,44 @@
+[
+  {
+    "query": "VNS-BA",
+    "repos_found": 52,
+    "top_results": [
+      "Relkci/Zabbix_Bandwidth-vnstat \u2014 Zabbix Template - Get Daily, Monthly and Alltime Bandwidth Information /w Trigge",
+      "QuocHoang2511/VNS365-BackEnd \u2014 ",
+      "DuyNguyen1405/BakagrabberVNSjava \u2014 ",
+      "chuongph1304/baseVNS \u2014 ",
+      "YaJub/C1SE.04-VNS365-BackEnd \u2014 "
+    ],
+    "status": "ok"
+  },
+  {
+    "query": "\"VNS-BA*\"",
+    "repos_found": 0,
+    "top_results": [],
+    "status": "ok"
+  },
+  {
+    "query": "variable neighborhood search bidirectional A* path planning",
+    "repos_found": 0,
+    "top_results": [],
+    "status": "ok"
+  },
+  {
+    "query": "8-11-13 neighborhood A*",
+    "repos_found": 0,
+    "top_results": [],
+    "status": "ok"
+  },
+  {
+    "query": "improved bidirectional A* variable neighborhood",
+    "repos_found": 0,
+    "top_results": [],
+    "status": "ok"
+  },
+  {
+    "query": "s24216929",
+    "repos_found": 0,
+    "top_results": [],
+    "status": "ok"
+  }
+]

@@ -1,0 +1,81 @@
+compared_to,map_name,metric,published,recomputed,abs_diff
+A*,A,nodes,-19.05,-19.05,0.0
+A*,A,turns,42.86,42.86,0.0
+A*,A,turn_angle_deg,33.67,33.66,0.01
+A*,A,time_s,41.31,41.31,0.0
+A*,A,length,4.02,4.02,0.0
+A*,B,nodes,26.96,26.96,0.0
+A*,B,turns,55.56,55.56,0.0
+A*,B,turn_angle_deg,28.44,28.44,0.0
+A*,B,time_s,86.8,86.79,0.01
+A*,B,length,0.54,0.54,0.0
+A*,C,nodes,39.24,39.24,0.0
+A*,C,turns,42.86,42.86,0.0
+A*,C,turn_angle_deg,48.23,48.23,0.0
+A*,C,time_s,95.84,95.84,0.0
+A*,C,length,3.14,3.15,0.01
+A*,D,nodes,-0.85,-0.85,0.0
+A*,D,turns,44.0,44.0,0.0
+A*,D,turn_angle_deg,39.91,40.18,0.27
+A*,D,time_s,67.37,67.37,0.0
+A*,D,length,-0.39,-0.39,0.0
+Improved A* [28],A,nodes,-23.46,-23.46,0.0
+Improved A* [28],A,turns,42.86,42.86,0.0
+Improved A* [28],A,turn_angle_deg,33.67,33.66,0.01
+Improved A* [28],A,time_s,29.02,29.02,0.0
+Improved A* [28],A,length,4.02,4.02,0.0
+Improved A* [28],B,nodes,9.02,9.03,0.01
+Improved A* [28],B,turns,63.63,63.64,0.01
+Improved A* [28],B,turn_angle_deg,41.45,41.45,0.0
+Improved A* [28],B,time_s,80.55,80.55,0.0
+Improved A* [28],B,length,4.4,4.4,0.0
+Improved A* [28],C,nodes,0.39,0.39,0.0
+Improved A* [28],C,turns,42.86,42.86,0.0
+Improved A* [28],C,turn_angle_deg,82.74,82.74,0.0
+Improved A* [28],C,time_s,83.11,83.11,0.0
+Improved A* [28],C,length,10.83,16.74,5.91
+Improved A* [28],D,nodes,3.2,-3.2,6.4
+Improved A* [28],D,turns,48.15,48.15,0.0
+Improved A* [28],D,turn_angle_deg,44.61,44.61,0.0
+Improved A* [28],D,time_s,66.38,66.38,0.0
+Improved A* [28],D,length,4.08,0.41,3.67
+BA*,A,nodes,-13.64,-13.64,0.0
+BA*,A,turns,60.0,60.0,0.0
+BA*,A,turn_angle_deg,53.56,53.56,0.0
+BA*,A,time_s,-18.47,-18.47,0.0
+BA*,A,length,4.02,4.02,0.0
+BA*,B,nodes,11.89,11.89,0.0
+BA*,B,turns,66.67,66.67,0.0
+BA*,B,turn_angle_deg,46.33,46.33,0.0
+BA*,B,time_s,27.4,27.41,0.01
+BA*,B,length,0.54,0.54,0.0
+BA*,C,nodes,54.43,54.43,0.0
+BA*,C,turns,50.0,50.0,0.0
+BA*,C,turn_angle_deg,54.7,54.7,0.0
+BA*,C,time_s,94.2,94.2,0.0
+BA*,C,length,1.869,3.15,1.28
+BA*,D,nodes,41.9,41.9,0.0
+BA*,D,turns,41.67,41.67,0.0
+BA*,D,turn_angle_deg,50.15,37.69,12.46
+BA*,D,time_s,55.94,55.94,0.0
+BA*,D,length,-1.54,-1.54,0.0
+Improved BA* [29],A,nodes,-9.89,-9.89,0.0
+Improved BA* [29],A,turns,71.43,71.43,0.0
+Improved BA* [29],A,turn_angle_deg,66.83,66.83,0.0
+Improved BA* [29],A,time_s,21.37,21.37,0.0
+Improved BA* [29],A,length,5.98,5.95,0.03
+Improved BA* [29],B,nodes,4.18,4.18,0.0
+Improved BA* [29],B,turns,77.78,77.78,0.0
+Improved BA* [29],B,turn_angle_deg,64.22,64.22,0.0
+Improved BA* [29],B,time_s,39.7,39.7,0.0
+Improved BA* [29],B,length,0.54,0.54,0.0
+Improved BA* [29],C,nodes,-7.53,-7.53,0.0
+Improved BA* [29],C,turns,80.96,80.95,0.01
+Improved BA* [29],C,turn_angle_deg,83.53,83.53,0.0
+Improved BA* [29],C,time_s,45.28,45.28,0.0
+Improved BA* [29],C,length,6.63,6.63,0.0
+Improved BA* [29],D,nodes,9.44,9.44,0.0
+Improved BA* [29],D,turns,53.33,53.33,0.0
+Improved BA* [29],D,turn_angle_deg,50.15,50.15,0.0
+Improved BA* [29],D,time_s,47.23,47.23,0.0
+Improved BA* [29],D,length,2.38,2.38,0.0

@@ -1,0 +1,5 @@
+map,opt_free,opt_no_squeeze,opt_strict,best_published,best_published_by,published_A_star,exact_match,all_published_ge_optimum
+map_A_20,28.627,28.627,29.799,28.627,"A*, Improved A*, BA*",28.627,True,True
+map_B_40,61.598,61.598,63.355,61.598,"A*, BA*, Improved BA*",61.598,True,True
+map_C_60,59.385,59.385,60.556,59.3848,"A*, BA*",59.385,True,True
+map_D_80,102.125,102.125,107.983,102.125,BA*,103.297,True,True

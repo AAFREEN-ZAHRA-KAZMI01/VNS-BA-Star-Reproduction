@@ -1,0 +1,9 @@
+matplotlib==3.10.8
+numpy==2.4.4
+opencv-python-headless
+pandas==3.0.2
+pymupdf
+pytest==9.1.1
+pyyaml==6.0.3
+requests==2.33.1
+scipy==1.17.1

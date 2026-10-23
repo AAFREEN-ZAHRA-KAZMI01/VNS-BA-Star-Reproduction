@@ -1,0 +1,17 @@
+map_name,compared_to,fig12
+A,A*,20.56
+A,Improved A* [28],17.22
+A,BA*,17.09
+A,Improved BA* [29],31.14
+B,A*,39.66
+B,Improved A* [28],39.81
+B,BA*,30.57
+B,Improved BA* [29],37.28
+C,A*,45.86
+C,Improved A* [28],43.99
+C,BA*,51.04
+C,Improved BA* [29],41.77
+D,A*,37.72
+D,Improved A* [28],33.28
+D,BA*,37.62
+D,Improved BA* [29],32.51

@@ -1,0 +1,17 @@
+map_name,compared_to,fig12,mean_of_table6,mean_of_recomputed,fig12_matches_table6
+A,A*,20.56,20.56,20.56,True
+A,Improved A* [28],17.22,17.22,17.22,True
+A,BA*,17.09,17.09,17.09,True
+A,Improved BA* [29],31.14,31.14,31.14,True
+B,A*,39.66,39.66,39.66,True
+B,Improved A* [28],39.81,39.81,39.81,True
+B,BA*,30.57,30.57,30.57,True
+B,Improved BA* [29],37.28,37.28,37.28,True
+C,A*,45.86,45.86,45.86,True
+C,Improved A* [28],43.99,43.99,45.17,True
+C,BA*,51.04,51.04,51.3,True
+C,Improved BA* [29],41.77,41.77,41.77,True
+D,A*,37.72,30.01,30.06,False
+D,Improved A* [28],33.28,33.28,31.27,True
+D,BA*,37.62,37.62,35.13,True
+D,Improved BA* [29],32.51,32.51,32.51,True

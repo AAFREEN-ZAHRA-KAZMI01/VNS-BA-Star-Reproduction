@@ -1,0 +1,20 @@
+{
+  "name": "rand_80_s29",
+  "size": 80,
+  "start": [
+    0,
+    0
+  ],
+  "goal": [
+    79,
+    79
+  ],
+  "density": 0.1998,
+  "source": "generated: numpy default_rng, i.i.d. obstacles",
+  "convention": "grid[r,c], r=0 bottom; points (c,r); txt top row first",
+  "seed": 29,
+  "effective_seed": 29,
+  "attempt": 0,
+  "target_density": 0.2,
+  "optimal_length": 114.6518
+}
