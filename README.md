@@ -123,8 +123,6 @@ the same pruning and smoothing, most of the turn advantage of VNS-BA* disappears
 
 Full analysis: `docs/critical_analysis.md` and the report.
 
-## Report
-- `report/main.pdf` – technical report in IEEE format
 
 ## Reproducibility notes
 - All planners are deterministic: path metrics are identical in repeated runs.
